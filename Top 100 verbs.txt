@@ -1,0 +1,97 @@
+#separator:tab
+#html:false
+sagen	сказать/говорить
+machen	делать
+geben	давать
+kommen	приходить, прибывать, прийти
+gehen	идти
+wissen	знать
+sehen	видеть
+stehen	стоять
+finden	находить
+bleiben	оставаться
+liegen	лежать
+heißen	называться/значить
+denken	думать
+nehmen	брать
+tun	делать, выполнять, исполнять
+glauben	верить/думать
+halten	держать/останавливаться
+nennen	называть, именовать, упоминать
+mögen	любить/нравиться
+zeigen	показывать, указывать, показать
+führen	вести/руководить
+sprechen	говорить
+bringen	приносить/приводить
+leben	жить
+fahren	ехать/водить
+meinen	иметь в виду/думать
+fragen	спрашивать
+gelten	считаться, иметь значение
+stellen	ставить
+spielen	играть
+arbeiten	работать
+brauchen	нуждаться/требовать
+folgen	следовать
+lernen	учиться/изучать
+bestehen	состоять, выдержать, выдерживать
+verstehen	понимать
+setzen	садить(ся)/устанавливать
+bekommen	получать
+beginnen	начинать
+erzählen	рассказывать, излагать, поведать, сообщать
+versuchen	пытаться/пробовать
+schreiben	писать
+laufen	бежать
+erklären	объяснять
+entsprechen	соответствовать, отвечать, удовлетворять, ответить
+sitzen	сидеть
+ziehen	тянуть/переезжать
+scheinen	казаться/светить
+fallen	падать
+gehören	принадлежать
+entstehen	возникать
+erhalten	получать/сохранять
+treffen	встречать/сталкиваться
+suchen	искать
+legen	класть
+vorstellen	представлять(ся)
+handeln	действовать/торговать
+erreichen	достигать
+tragen	носить
+schaffen	создавать/справляться
+lesen	читать
+verlieren	терять
+darstellen	изображать/представлять
+erkennen	узнавать/распознавать
+entwickeln	развивать(ся)
+reden	говорить/беседовать
+aussehen	выглядеть
+erscheinen	появляться/казаться
+bilden	формировать/образовывать
+anfangen	начинать
+erwarten	ожидать
+wohnen	жить/проживать
+betreffen	касаться/отношиться
+warten	ждать
+vergehen	проходить (о времени)
+helfen	помогать
+gewinnen	выигрывать/побеждать
+schließen	закрывать/делать вывод
+fühlen	чувствовать
+bieten	предлагать
+interessieren	интересовать
+interessieren sich	интересоваться
+erinnern	напоминать
+erinnern sich	вспоминать
+ergeben	приводить к/показывать (результат)
+anbieten	предлагать (услугу/товар)
+studieren	учиться в вузе/изучать
+verbinden	соединять/связывать
+ansehen	смотреть(на)/рассматривать
+fehlen	отсутствовать/не хватать
+bedeuten	означать
+vergleichen	сравнивать
+steigen	подниматься/расти
+verlassen	покидать
+verlassen sich	полагаться (на)

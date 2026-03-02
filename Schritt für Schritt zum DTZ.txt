@@ -1,0 +1,631 @@
+#separator:tab
+#html:false
+das Abenteuer	приключение, авантюра
+abhängen (von)	зависеть (от)
+abmachen	договориться
+abschließen	заканчивать, закрывать
+abstimmen	голосовать, согласовывать
+abwaschen	мыть посуду
+achten (auf)	следить (за), обращать внимание (на)
+ähnlich	похожий
+die Aktion	акция, мероприятие
+aktuell	актуальный
+aller-	все– (приставка)
+allerdings	однако, разумеется, тем не менее
+allgemein	в общем, общий
+als	как
+als ob	как будто
+das Altenheim	дом престарелых
+der Anbieter	поставщик, провайдер
+ändern (sich)	меняться, изменять(ся)
+die Änderung	изменение
+anfangs	сначала, в начале
+die Angabe	сведения, утверждение
+angeben	указывать, заявлять, сообщать, хвастаться
+angehen	касаться, начинаться
+angestellt	наёмный
+der/die Angestellte	служащий/ая
+ängstlich	трусливый, тревожный
+anklicken	кликать (мышью)
+ankreuzen	отмечать крестиком
+die Anlagen	приложения, устройства, сооружения
+anschließen	подключать, присоединять
+die Ansicht	вид, мнение
+der Antwortbogen	ответный бланк
+die Anzahl	количество
+an·zeigen	сообщать, объявлять
+der Arbeitgeber	работодатель
+die Arbeitsatmosphäre	атмосфера на работе
+der Ärger	злость, неприятности
+die Art	вид, характер
+der Artikel	статья, артикль
+atmen	дышать
+die Atmosphäre	атмосфера
+auffordern	попросить, призывать
+die Aufforderung	просьба, требование
+aufgeben	сдаваться, отказываться, задавать (урок)
+aufhalten	останавливать, задерживать
+aufhören	прекращать
+aufmerksam	внимательный
+aufnehmen	принимать, записывать
+der Auftrag	заказ, поручение, задание
+aufwachen	просыпаться
+der Augenblick	мгновение
+auseinander	по отдельности, раздельно
+das Ausland	зарубежье
+ausnahmsweise	в исключительных случаях, как исключение
+ausreichend	достаточный
+ausschließlich	исключительно
+aus sein	быть выключенным, отсутствовать
+aussuchen	выбирать
+außen	снаружи
+außer	кроме, кроме того
+außerhalb	за пределами
+die Auswahl	выбор
+automatisch	автоматически
+der Bäcker	пекарь
+der Balkon	балкон
+die Band	группа (музыкальная)
+bauen	строить
+bedanken (sich)	благодарить (кого-л.)
+bedienen	обслуживать, пользоваться
+die Bedingung	условие
+die Bedienungsanleitung	инструкция по эксплуатации
+befinden (sich)	находиться, чувствовать себя
+begegnen	встречать(ся)
+begeistert	в восторге
+begleiten	сопровождать
+begrüßen	приветствовать
+die Behörde	власти, учреждение
+beißen	кусать
+bekannt	известный
+der/die Bekannte	знакомый/ая
+der Beleg	квитанция, доказательство
+beleidigen	оскорблять
+benötigen	нуждаться
+beraten	консультировать, советовать
+berechnen	рассчитывать, вычислять
+berechtigt	оправданный, имеющий право
+bereit	готовый
+bereits	уже
+der Bericht	отчёт, сообщение
+berichten	сообщать, докладывать
+beruhigen (sich)	успокаивать(ся)
+beschädigen	повреждать
+beschäftigen (sich)	заниматься (чем-л.)
+beschreiben	описывать
+die Beschreibung	описание
+besitzen	владеть
+besorgen	добывать, заботиться
+besprechen	обсуждать
+die Bestellung	заказ
+beteiligen (sich)	участвовать
+der Betreuer	куратор, воспитатель
+die Betreuung	уход, сопровождение
+bevor	прежде чем
+die Beziehung	отношение, связь
+die Bibliothek	библиотека
+Bio-	био–
+bitten	просить
+bloß	лишь, только
+das Blut	кровь
+braten	жарить
+buchen	бронировать
+die Cafeteria	кафетерий
+die Chance	шанс, возможность
+der Chip	чип
+dabei	при этом, рядом
+das Dach	крыша
+damit	чтобы, с этим
+die Datei	файл
+die Daten	данные
+das Dessert	десерт
+deswegen	поэтому
+deutlich	ясно, отчётливо
+der Dialog	диалог
+die Diät	диета
+diesmal	в этот раз
+digital	цифровой
+Doppel-	двойной–
+drinnen	внутри
+das Drittel	треть
+duzen	"обращаться на ""ты"""
+ebenfalls	также
+das E-Book	электронная книга
+die Ehe	брак
+das Eigentum	собственность
+die Eile	поспешность
+der Einbrecher	взломщик, грабитель
+die Einfahrt	въезд
+einig-	некоторый, объединённый (приставка)
+einigen (sich) (mit)	договориться (с кем-л.)
+die Einleitung	введение
+die Einnahme	приход, доход
+einnehmen	принимать (лекарство), занимать (позицию)
+einschlafen	засыпать
+einstellen	настраивать, принимать на работу
+eintragen	вносить, регистрировать
+einwerfen	бросать (в почтовый ящик)
+einziehen	въезжать, втягивать
+einzig-	единственный–
+elektronisch	электронный
+der Elternabend	родительское собрание
+der Empfang	приём, ресепшн
+empfangen	принимать, встречать
+die Empfehlung	рекомендация
+endgültig	окончательный
+entstehen	возникать
+enttäuschen	разочаровывать
+die Enttäuschung	разочарование
+entschließen (sich)	решаться
+entweder … oder	либо … либо
+entwickeln (sich)	развиваться
+die Entwicklung	развитие
+erfolgreich	успешный
+das Ergebnis	результат
+die Erholung	отдых, восстановление
+erkennen	узнавать, распознавать
+die Erlaubnis	разрешение
+das Erlebnis	переживание, событие
+erleichtern	облегчать
+erreichen	достигать
+erschrecken	пугать, испугаться
+ersetzen	заменять
+erstellen	создавать
+erwarten	ожидать
+etwa	примерно, около
+eventuell	возможно
+extrem	чрезвычайно, экстремальный
+die Fabrik	фабрика
+der Fachmann, Fachleute	специалист, специалисты
+das Fahrzeug	транспортное средство
+der Fall	случай, падение
+falls	если
+fehlen	отсутствовать, не хватать
+der Feierabend	конец рабочего дня, свободное время после работы
+fein	изящный, тонкий
+das Feld	поле
+das Festival	фестиваль
+die Festplatte	жёсткий диск
+das Fett	жир
+die Figur	фигура
+finanziell	финансовый
+flexibel	гибкий
+fließend	бегло
+die Folge	последствие, серия
+folgen	следовать
+fördern	поддерживать, способствовать
+die Form	форма
+der Fortschritt	прогресс
+fortsetzen	продолжать
+der Fotoapparat	фотоаппарат
+die Frechheit	наглость
+die Fremdsprache	иностранный язык
+die Frist	срок
+fröhlich	весёлый
+die Frucht	плод, фрукт
+führen	вести
+die Garage	гараж
+garantieren	гарантировать
+der Garten	сад
+das Gebäude	здание
+gebrauchen	использовать
+die Geduld	терпение
+gegen	против, около (в знач.: около времени)
+das Geheimnis	тайна
+die Gelegenheit	возможность
+genießen	наслаждаться
+genügen	быть достаточным
+gering	незначительный, небольшой
+der Geschäftsmann / die Geschäftsfrau / die Geschäftsleute	бизнесмен / бизнесвумен / бизнес-люди
+der Geschmack	вкус
+die Geschwindigkeitsbeschränkung	ограничение скорости
+das Gesetz	закон
+das Gewicht	вес
+der Gewinn	выигрыш, прибыль
+gewöhnen (sich) (an)	привыкать (к)
+gewöhnlich	обычно
+gewohnt	привычный
+gleichzeitig	одновременно
+das Golf	гольф
+gratis	бесплатно
+die Grenze	граница
+die Großstadt	большой город
+der Grund	причина, основание
+gründen	основывать
+die Grundlage	основа
+grüßen	приветствовать
+das Hähnchen	цыплёнок, курица
+die Hälfte	половина
+die Halle	зала, ангар
+der Handel	торговля
+der Händler	торговец
+der Handwerker	ремесленник
+Haupt-	главный–
+das Haus	дом
+die Haut	кожа
+heben	поднимать
+das Heim	дом, родной дом
+hell-	светлый–
+herstellen	производить
+der Hersteller	производитель
+herunterladen	скачивать
+die Hexe	ведьма
+hinsetzen (sich)	садиться
+hinterher	потом, вслед
+der Hinweis	указание, примечание
+hinweisen (auf)	указывать (на)
+der Hit	хит
+der Humor	юмор
+der ICE	скоростной поезд (ICE)
+ideal	идеальный
+innen	внутри
+die Innenstadt	центр города
+innerhalb	в пределах
+installieren	устанавливать
+das Institut	институт
+das Instrument	инструмент
+irgend-	какой-либо–
+irgendein(e)	какой-нибудь/ая
+irgendwann	когда-нибудь
+je	по, каждый
+je … desto	чем … тем
+jederzeit	в любое время
+jedes Mal	каждый раз
+jeweils	каждый раз, соответственно
+die Jugend	молодёжь
+der Kauf	покупка
+der Keller	подвал
+das Kino	кино
+das Kissen	подушка
+die Kita	детский сад
+klappen	получаться, удаваться
+das Klavier	рояль, пианино
+der Klick	щелчок
+klicken	кликать
+das Klima	климат
+klingeln	звонить (о телефоне)
+die Klinik	клиника
+klopfen	стучать
+der Knopf	пуговица, кнопка
+die Konferenz	конференция
+der König	король
+die Konkurrenz	конкуренция
+die Kontrolle	контроль
+kontrollieren	контролировать
+die Kopie	копия
+der Kopierer	копировальный аппарат
+die Kosten	расходы
+die Kraft	сила
+krankschreiben	выдать больничный
+die Krankenkasse	медицинская страховая касса
+der Kreis	круг, район
+Krimi(nal)-	криминальный–
+die Kritik	критика
+kritisieren	критиковать
+kühl	прохладный, холодный
+künstlich	искусственный
+der Kunststoff	пластик
+der Kursleiter / die Kursleiterin	преподаватель курса
+das Labor	лаборатория
+lächeln	улыбаться
+das Lager	склад
+die Landwirtschaft	сельское хозяйство
+der Lärm	шум
+die Laune	настроение
+das Leben	жизнь
+der Lebenslauf	резюме
+leiden	страдать
+leisten (sich)	позволить себе
+leiten	руководить, вести
+die Liebe	любовь
+liefern	доставлять
+die Lieferung	доставка
+der Lift	лифт
+die Limonade	лимонад
+der Link	ссылка
+die Liste	список
+das Lokal	заведение, ресторан
+lügen	врать
+der Makler	риэлтор
+die Maklerin	риэлторша
+das Mal	раз, случай
+der Manager	менеджер
+die Managerin	менеджерша
+die Marke	марка
+markieren	отмечать
+der Markt	рынок
+die Medien	медиа, средства массовой информации
+mehrer-	несколько– (приставка)
+die Meinung	мнение
+meist-	в большинстве, чаще всего (приставка)
+die Meldung	сообщение, новость
+die Menge	количество, толпа
+das Menü	меню
+merken (sich)	запоминать(ся)
+merkwürdig	странный
+die Messe	ярмарка, выставка
+mindestens	по крайней мере
+miteinander	вместе, друг с другом
+mitteilen	сообщать
+das Mittel	средство
+die Mitternacht	полуночь
+das Modell	модель
+der Moderator	ведущий
+die Moderatorin	ведущая
+möglichst	по возможности
+monatelang	в течение месяцев
+monatlich	ежемесячно
+die Mühe	усилие
+der Mülleimer	мусорное ведро
+mündlich	устно
+der Musiker	музыкант
+die Musikerin	музыкантка
+der Muskel	мышца
+der Mut	смелость
+die Muttersprache	родной язык
+nachdem	после того как
+nachdenken (über)	размышлять (о)
+nebenbei	между прочим, кстати
+negativ	отрицательный
+neugierig	любопытный
+die Neuigkeit	новость
+neulich	недавно
+der Nichtraucher	некурящий
+die Nichtraucherin	некурящая
+normalerweise	обычно
+nötig	нужный, необходимый
+die Notiz	заметка
+notwendig	необходимый
+o.k.	окей
+obwohl	хотя
+offen	открытый
+offiziell	официальный
+ökologisch	экологический
+die Operation	операция
+ordnen	упорядочивать
+der Ordner	папка
+die Organisation	организация
+organisieren	организовывать
+das Parkhaus	многоуровневый паркинг
+das Passwort	пароль
+pensioniert sein	быть на пенсии
+per	через, по (напр., по почте)
+persönlich	личный, лично
+das Pferd	лошадь
+pflegen	ухаживать, поддерживать
+die Pflicht	обязанность
+das Plakat	плакат
+der Plan	план
+positiv	положительный
+preiswert	дешёвый, выгодный
+das Produkt	продукт
+produzieren	производить
+der Profi	профессионал
+das Programm	программа
+das Projekt	проект
+der Prospekt	брошюра, проспект
+protestieren	протестовать
+das Prozent	процент
+die Qualifikation	квалификация
+die Quittung	квитанция
+das Quiz	викторина
+der Rat	совет
+reagieren	реагировать
+die Reaktion	реакция
+realistisch	реалистичный
+rechnen	считать, рассчитывать
+der Rechner	компьютер, калькулятор
+der Rechtsanwalt	адвокат
+die Rechtsanwältin	адвокатесса
+reden	говорить
+reduzieren	сокращать, уменьшать
+regional	региональный
+reichen	хватать, быть достаточным
+die Reihe	ряд, серия
+reisen	путешествовать
+reiten	ездить верхом
+rennen	бежать
+renovieren	ремонтировать
+die Reportage	репортаж
+die Reservierung	бронь, резервирование
+retten	спасать
+das Risiko	риск
+die Rückmeldung	ответ, обратная связь
+die Rücksicht	внимание, уважение
+der Rundfunk	радиовещание
+die Sache	вещь, дело
+der Sänger	певец
+die Sängerin	певица
+schaden	вредить
+der Schaden	ущерб, повреждение
+der Schalter	касса, стойка, переключатель
+schätzen	ценить, оценивать
+das Schaufenster	витрина
+die Scheibe	кусок, стекло
+schießen	стрелять
+schimpfen	ругать(ся)
+schlagen	бить, побеждать
+die Schlange	очередь, змея
+schlank	стройный
+der Schmerz	боль
+das Schmerzmittel	обезболивающее
+der Schreibblock	блокнот
+schreien	кричать
+die Schrift	письменность, шрифт
+die Schulter	плечо
+der Schutz	защита
+schützen	защищать
+schwach	слабый
+schwer	тяжёлый, трудный
+die Schwierigkeit	трудность
+die Sehenswürdigkeit	достопримечательность
+die Seite	страница, сторона
+selbstständig	самостоятельный, независимый
+selbstverständlich	само собой разумеющееся
+senden	отправлять
+die Serie	сериал, серия
+setzen (sich)	садиться, ставить
+die Show	шоу
+sichtbar	видимый
+der Sinn	смысл
+der Ski	лыжа
+das Skifahren	катание на лыжах
+sobald	как только
+die Software	программное обеспечение
+der Song	песня
+sparsam	экономный
+der Speisewagen	вагон-ресторан
+speziell	специальный
+der Spieler	игрок
+die Spielerin	игрокиня
+der Sportler	спортсмен
+die Sportlerin	спортсменка
+die Spritze	шприц, инъекция
+spülen	полоскать, мыть посуду
+der Stadtplan	план города
+der Standpunkt	точка зрения
+der Star	звезда
+die Statistik	статистика
+statt	вместо
+staubsaugen	пылесосить
+stehlen	красть
+der Stein	камень
+der Stil	стиль
+still	тихий
+die Stimme	голос
+stinken	вонять
+das Stockwerk	этаж
+stoppen	останавливать
+die Störung	сбой, помеха
+stoßen	толкать, сталкиваться
+der Strom	электричество, поток
+die Studie	исследование
+das Studio	студия
+der Swimmingpool	бассейн
+das Symbol	символ
+der Tarif	тариф
+die Tätigkeit	деятельность
+tatsächlich	на самом деле
+täuschen	обманывать
+die Technik	техника
+teilen	делить
+teilnehmen	участвовать
+teilweise	частично
+das Tempo	темп
+die Terrasse	терраса
+tief	глубокий, низкий
+tolerant	толерантный
+der Tourismus	туризм
+der Trainer	тренер
+die Trainerin	тренерша
+trainieren	тренироваться, тренировать
+der Treffpunkt	место встречи
+treiben	заниматься (видом спорта), гнать
+die Treppe	лестница
+treu	верный
+trocken	сухой
+trotz	несмотря на
+die Tür	дверь
+typisch	типичный
+übernachten	переночевать
+die Übernachtung	ночёвка
+überprüfen	проверять
+überqueren	пересекать
+die Überraschung	сюрприз
+überreden	уговаривать
+übersetzen	переводить
+die Überstunde	сверхурочный час
+die Überweisung	перевод (денег), направление (к врачу)
+überzeugt	убеждённый
+üblich	обычный
+umgehen (mit)	обходиться (с), обращаться (с)
+die Umgebung	окрестности, окружение
+umsonst	напрасно, бесплатно
+der Umtausch	обмен
+umtauschen	обменивать
+die Umwelt	окружающая среда
+unterbrechen	прерывать
+unterrichten	преподавать
+unterstützen	поддерживать
+die Untersuchung	исследование, обследование
+verändern (sich)	изменять(ся)
+die Verantwortung	ответственность
+die Verbindung	связь, соединение
+das Verbot	запрет
+verbrauchen	потреблять, расходовать
+vereinbaren	согласовывать, договариваться
+der Vergleich	сравнение, сравнение/сравнение (сделка)
+vergleichen	сравнивать
+das Verhalten	поведение
+das Verhältnis	отношение, соотношение
+verlangen	требовать
+verlassen	покидать
+der Vermieter	арендодатель (муж.)
+die Vermieterin	арендодатель (жен.)
+veröffentlichen	опубликовать
+verrückt	сумасшедший
+verspäten (sich)	опаздывать
+versprechen	обещать
+verständlich	понятный
+verstehen (sich)	понимать(ся)
+der Vertrag	договор, контракт
+die Verzeihung	прощение, извинение
+das Virus	вирус
+das Vitamin	витамин
+völlig	полностью
+die Voraussetzung	предпосылка, условие
+der Vorhang	занавеска
+vorkommen	происходить, встречаться
+vorlesen	читать вслух
+vornehmen (sich)	намереваться, предпринимать
+die Vorschrift	предписание, правило
+während	в течение, пока
+die Wahrheit	правда
+die Wanderung	поход, прогулка
+das Waschmittel	моющее средство
+wenden (sich)	обращаться (к), поворачиваться
+die Werbung	реклама
+der Werktag	рабочий день, будний день
+der Wert	ценность, значение
+wiegen	весить, взвешивать
+wirken	действовать, производить впечатление
+die Wirklichkeit	реальность
+die Wirkung	эффект, воздействие
+wohl	вероятно, хорошо
+die Wolle	шерсть
+der Workshop	мастер-класс, семинар
+wütend	злой, в ярости
+zählen	считать, считаться
+die Zahlung	платёж
+die Zahncreme	зубная паста
+das Zeichen	знак, символ
+zeichnen	рисовать, чертить
+zerstören	разрушать
+das Zeug	вещь, хлам
+die Zone	зона
+zufällig	случайный
+der Zugang	доступ, вход
+zuletzt	в конце, в последний раз
+zusagen	соглашаться, обещать
+zusammen-	вместе– (приставка)
+die Zusammenarbeit	сотрудничество
+der Zuschauer	зритель
+die Zuschauerin	зрительница
+zu sein	быть закрытым, быть выключенным
+zuständig	ответственный, компетентный
+die Zutat	ингредиент
+zwar	хотя, действительно (частица)
+zweifeln	сомневаться
+behaupten	утверждать, заявлять
+leugnen	отрицать
+senken	снижать, понижать
+kulturell	культурный
+enttäuscht	разочарованный
+bewältigen	справляться, преодолевать
+gewährleisten	гарантировать, обеспечивать
+ehrgeizig	честолюбивый, амбициозный
+fragwürdig	сомнительный
+konsequent	последовательный, настойчивый
+zeitgemäß	современный, соответствующий времени
+zweckmäßig	целесообразный, практичный

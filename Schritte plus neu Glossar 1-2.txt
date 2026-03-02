@@ -1,0 +1,857 @@
+#separator:tab
+#html:false
+guten Tag	добрый день
+der Tag	день
+der Name	имя
+die Folge	часть
+sein	быть
+ich	я
+Das bin ich.	Это я.
+ansehen	посмотреть
+das Foto	фото
+Sie	Вы
+hören	слушать
+wer	кто
+verbinden	связывать
+heißen	называться
+was	что
+richtig	правильно
+noch	еще
+einmal	один раз, однажды
+ankreuzen	отметить крестиком
+kommen	приходить
+aus	из
+Deutschland	Германия
+sprechen	говорить
+Polnisch	польский
+und	и
+Deutsch	немецкий
+Englisch	английский
+ein bisschen	немного
+Spanisch	испанский
+Polen	Польша
+sagen	сказать
+zuordnen	подбирать, сочетать
+hallo	привет
+auf Wiedersehen	до свидания
+tschüs	пока
+der Herr	господин
+das Kind	ребенок
+guten Abend	добрый вечер
+der Abend	вечер
+die Dame	дама
+willkommen	добро пожаловать
+bei	у
+die Musik	музыка
+international	международный
+guten Morgen	доброе утро
+der Morgen	утро
+die Frau	женщина
+danke	спасибо
+gute Nacht	спокойной ночи
+die Nacht	ночь
+der Papa	папа
+ergänzen	дополнить
+machen	делать
+das Kärtchen	карточка
+der Kurs	курс
+lesen	читать
+das Gespräch	разговор
+die Entschuldigung	извинение
+wie	как
+freuen (sich)	радоваться
+herzlich willkommen	добро пожаловать
+der Park	парк
+das Klinikum	клиника
+jetzt	сейчас
+spielen	играть
+Ihr-	Ваш
+das Beispiel	пример
+suchen	искать
+bekannt-	знакомый, известный
+die Person	человек
+zeigen	показывать
+fragen	спрашивать
+ja	да
+stimmen	быть правильным
+nein	нет
+wissen	знать
+schon	уже
+fertig (sein)	готов (быть готовым)
+du	ты
+woher	откуда
+Österreich	Австрия
+Rumänien	Румыния
+Syrien	Сирия
+Ungarn	Венгрия
+Iran	Иран
+Irak	Ирак
+der Jemen	Йемен
+der Sudan	Судан
+die Schweiz	Швейцария
+die Türkei	Турция
+die Ukraine	Украина
+USA	США
+der Deutschkurs	курс немецкого языка
+markieren	отмечать
+die Frage	вопрос
+Indien	Индия
+toll	здорово
+Thailand	Таиланд
+interessant	интересный
+antworten	отвечать
+gut	хороший
+schön	красивый
+auch	тоже
+Türkisch	турецкий
+vergleichen	сравнивать
+die Sprache	язык
+Arabisch	арабский
+Bulgarisch	болгарский
+Französisch	французский
+Griechisch	греческий
+Italienisch	итальянский
+Rumänisch	румынский
+Russisch	русский
+Ungarisch	венгерский
+der Partner	партнер
+die Partnerin	партнерша
+der Film	фильм
+der Buchstabe	буква
+das Alphabet	алфавит
+nachsprechen	повторять
+buchstabieren	произносить по буквам
+wie bitte	простите
+bitte	пожалуйста
+das Telefongespräch	телефонный разговор
+die Firma	фирма
+der Moment	момент
+leidtun	вызывать жалость
+vielen Dank	большое спасибо
+auf Wiederhören	до свидания (по телефону)
+das Spiel	игра
+die Buchstabenmaus	буквенная мышка
+raten	угадывать
+das Wort	слово
+die Lektion	урок
+die Adresse	адрес
+die Visitenkarte	визитная карточка
+der Vorname	имя
+der Familienname	фамилия
+der Nachname	фамилия
+die Straße	улица
+die Stadt	город
+das Land	страна
+der Produzent	продюсер
+die Produzentin	продюсерша
+das Schuhhaus	обувной магазин
+der Inhaber	владелец
+die Inhaberin	владелица
+deutsch	немецкий
+die Krankenkasse	медицинская страховка
+die E-Mail	электронное письмо
+die Allgemeinmedizin	общая медицина
+das Telefon	телефон
+der Text	текст
+das Recht	право
+Liechtenstein	Лихтенштейн
+das Formular	формуляр
+die Fremdsprache	иностранный язык
+die Anmeldung	регистрация
+die Hausnummer	номер дома
+die Postleitzahl	почтовый индекс
+tauschen	обменивать
+die Grammatik	грамматика
+die Aussage	высказывание
+die W-Frage	вопрос с W
+das Verb	глагол
+die Konjugation	спряжение
+merken (sich)	запоминать
+die Kommunikation	общение
+die Begrüßung	приветствие
+der Abschied	прощание
+die Herkunft	происхождение
+bitten	просить
+danken	благодарить
+die Strategie	стратегия
+das Lernziel	учебная цель
+jemand-	кто-то
+begrüßen	приветствовать
+verabschieden (sich)	прощаться
+das Heimatland	родная страна
+das Anmeldeformular	регистрационный формуляр
+zwischendurch mal	между делом
+das Lied	песня
+das Akkordeon	аккордеон
+das Baby	младенец
+der Cent	цент
+das Dynamit	динамит
+der Elefant	слон
+die Flöte	флейта
+die Gitarre	гитара
+das Insekt	насекомое
+der Jaguar	ягуар
+die Kamera	камера
+die Lokomotive	локомотив
+das Mikrofon	микрофон
+die Natur	природа
+der Ozean	океан
+die Polizei	полиция
+das Quartett	квартет
+das Radio	радио
+das Saxofon	саксофон
+der Uhu	филин
+die Volksmusik	народная музыка
+das Xylofon	ксилофон
+das Ypsilon	ипсилон
+der Zirkus	цирк
+das Buchstabenspiel	игра в буквы
+der Ton	тон
+notieren	записывать
+die Landeskunde	страноведение
+regional	региональный
+geben	давать
+viel-	много
+für	для
+die Karte	карта
+Tag	день
+moin, moin	добрый день (север Германии)
+Tach	привет (разг.)
+servus	привет (Австрия)
+grüezi (mitenand)	привет (Швейцария)
+uf Wiederluege	до свидания (Швейцария)
+die Phonetik	фонетика
+achten (auf)	обращать внимание (на)
+die Satzmelodie	мелодия предложения
+die Betonung	ударение
+das Satzzeichen	знак препинания
+oder	или
+Persisch	персидский
+entdecken	обнаружить
+Kroatien	Хорватия
+die Form	форма
+Kamerun	Камерун
+Nigeria	Нигерия
+Thai	тайский
+großschreiben	писать с большой буквы
+das Schreibtraining	тренировка письма
+der Brief	письмо
+der Briefumschlag	конверт
+ausfüllen	заполнять
+das Computersystem	компьютерная система
+der Webdesigner	веб-дизайнер
+die Webdesignerin	веб-дизайнерша
+mein-	мой
+die Familie	семья
+die Pause	пауза
+super	супер
+meinen	думать
+der Deutschlehrer	учитель немецкого
+die Deutschlehrerin	учительница немецкого
+lernen	учить
+haben	иметь
+Kanada	Канада
+der Vater	отец
+Großeltern	бабушка и дедушка
+die Mutter	мать
+Eltern	родители
+der Bruder	брат
+das Jahr	год
+Geschwister	братья и сестры
+leben	жить
+in	в
+Wie geht’s?	Как дела?
+sehr	очень
+Na ja	ну да
+Es geht	пойдет
+Wie geht es Ihnen?	Как у Вас дела?
+das Kettenspiel	игра по цепочке
+das Bild	картинка
+schreiben	писать
+die Enkelin	внучка
+der Enkel	внук
+die Tochter	дочь
+der Sohn	сын
+die Schwester	сестра
+die Oma	бабушка
+der Mann	мужчина
+der Opa	дедушка
+das Familienfoto	семейное фото
+die Information	информация
+variieren	вариировать
+China	Китай
+dann	тогда
+Ghana	Гана
+dein-	твой
+die Variante	вариант
+erst-	первый
+der Arbeitstag	рабочий день
+das Rätsel	загадка
+ihr	вы (мн.ч.)
+der Zettel	листок
+Bosnien	Босния
+der Ehemann	муж
+herumgehen	обходить
+die Ehefrau	жена
+zu zweit	вдвоем
+falsch	неправильно
+das Paar	пара
+genau	точно
+wir	мы
+planen	планировать
+das Familienfest	семейный праздник
+die Liste	список
+die Zahl	число
+Personalien	личные данные
+null	ноль
+wohnen	жить
+eins	один
+sie	она/они
+zwei	два
+zusammenleben	жить вместе
+drei	три
+geschieden sein	быть в разводе
+vier	четыре
+er	он
+fünf	пять
+sechs	шесть
+sieben	семь
+acht	восемь
+neun	девять
+zehn	десять
+elf	одиннадцать
+zwölf	двенадцать
+dreizehn	тринадцать
+vierzehn	четырнадцать
+fünfzehn	пятнадцать
+sechzehn	шестнадцать
+siebzehn	семнадцать
+achtzehn	восемнадцать
+neunzehn	девятнадцать
+zwanzig	двадцать
+die Telefonnummer	номер телефона
+die Nummer	номер
+Spanien	Испания
+wo	где
+geboren	родился
+verheiratet	женатый/замужем
+alt	старый
+das Alter	возраст
+der Geburtsort	место рождения
+der Wohnort	место жительства
+der Familienstand	семейное положение
+ledig	холостой/незамужняя
+verwitwet	вдовец/вдова
+das Partnerinterview	интервью о партнере
+über	о
+deutschsprachig	немецкоговорящий
+liegen	лежать
+die Landkarte	карта
+der Norden	север
+der Osten	восток
+der Süden	юг
+der Westen	запад
+die Hauptstadt	столица
+Süd-	южный
+Nord-	северный
+der Freund	друг
+die Freundin	подруга
+Slowenien	Словения
+lange	долго
+zusammenwohnen	жить вместе
+der Grafik-Designer	графический дизайнер
+die Grafik-Designerin	графический дизайнер (жен.)
+Norddeutschland	Северная Германия
+der Lehrer	учитель
+die Lehrerin	учительница
+der Kroate	хорват
+die Kroatin	хорватка
+die/der Deutsche	немец/немка
+Süddeutschland	Южная Германия
+Baden-Württemberg	Баден-Вюртемберг
+der Possessivartikel	притяжательный артикль
+das Befinden	самочувствие
+zusammen	вместе
+ander-	другой
+vorstellen (sich)	представляться
+die Angabe	данные
+zu	к
+der Ort	место
+zählen	считать
+verstehen (sich)	понимать друг друга
+beantworten	отвечать
+das Thema	тема
+der Türke	турок
+die Türkin	турчанка
+der Österreicher	австриец
+die Österreicherin	австрийка
+bilden	образовывать
+die Gruppe	группа
+jeder	каждый
+der Satz	предложение
+Russland	Россия
+das Projekt	проект
+arbeiten	работать
+die Kurs-Kontaktliste	контактный список курса
+der Fragebogen	анкета
+der Unterstrich	нижнее подчеркивание
+der Punkt	точка
+die E-Mail-Adresse	электронный адрес
+die Muttersprache	родной язык
+die Kontaktliste	контактный список
+die Kursstatistik	статистика курса
+sammeln	собирать
+der Satzakzent	акцент в предложении
+das Familienmitglied	член семьи
+klopfen	стучать
+der Rhythmus	ритм
+das Forum	форум
+die Tabelle	таблица
+die Prüfung	экзамен
+Tschechisch	чешский
+hier	здесь
+der Fokus	фокус
+die Stadtbibliothek	городская библиотека
+der Schülerausweis	студенческий билет
+die Klasse	класс
+die/der Jugendliche	подросток
+die/der Erziehungsberechtigte	опекун
+erlauben	разрешать
+männlich	мужской
+weiblich	женский
+die Nationalität	национальность
+Medien	СМИ
+entleihen	брать (напр. книгу)
+das Buch	книга
+die Zeitschrift	журнал
+das Hörbuch	аудиокнига
+die CD	CD
+die DVD	DVD
+die DVD-ROM	DVD-ROM
+der Chefarzt	главврач
+die Chefärztin	главврач (жен.)
+einkaufen	покупать
+der Bananenpfannkuchen	банановый блин
+der Pfannkuchen	блин
+kennen	знать
+die Banane	банан
+die Butter	масло
+das Ei	яйцо
+das Mehl	мука
+die Milch	молоко
+der Zucker	сахар
+die Schokolade	шоколад
+brauchen	нуждаться
+kaufen	покупать
+das Schokoladenei	шоколадное яйцо
+passen	подходить
+möchten	хотеть
+der Hunger	голод
+superlecker	очень вкусно
+der Euro	евро
+können	мочь
+dir	тебе
+helfen	помогать
+erzählen	рассказывать
+Sri Lanka	Шри-Ланка
+das Fleisch	мясо
+das Bier	пиво
+der Käse	сыр
+das Salz	соль
+der Tee	чай
+das Brot	хлеб
+der Wein	вино
+das Mineralwasser	минеральная вода
+der Reis	рис
+der Fisch	рыба
+natürlich	естественно
+der Einkaufszettel	список покупок
+zu Hause	дома
+zeichnen	рисовать
+doch	же
+ein-	один
+kein-	никакой
+der Apfel	яблоко
+die Birne	груша
+das Wörterbuch	словарь
+die Orange	апельсин
+der Kuchen	пирог
+der Kaffee	кофе
+der Saft	сок
+das Brötchen	булочка
+das Würstchen	сосиска
+die Tomate	помидор
+die Kiwi	киви
+auf Deutsch	по-немецки
+der Einkaufswagen	тележка для покупок
+die Kartoffel	картошка
+der Joghurt	йогурт
+die Zwiebel	лук
+das Suchbild	картинка для поиска
+das Regal	полка
+anders	по-другому
+finden	находить
+der Unterschied	разница
+oft	часто
+der Preis	цена
+die Mengenangabe	указание количества
+dreißig	тридцать
+sechzig	шестьдесят
+fünfzig	пятьдесят
+vierzig	сорок
+siebzig	семьдесят
+hundert	сто
+achtzig	восемьдесят
+neunzig	девяносто
+der Prospekt	проспект
+das Sonderangebot	спецпредложение
+die Lebensmittelabteilung	отдел продуктов
+das Lebensmittel	продукт
+die Abteilung	отдел
+das Hackfleisch	фарш
+die Wurst	колбаса
+kosten	стоить
+das Gramm	грамм
+das Kilo	килограмм
+das Pfund	фунт
+der Liter	литр
+die Flasche	бутылка
+die Packung	упаковка
+die Dose	банка
+der Becher	стакан
+die Sahne	сливки
+wie viel	сколько
+kochen	готовить
+auf	на
+der Markt	рынок
+der Verkäufer	продавец
+die Verkäuferin	продавщица
+der Kunde	клиент
+die Kundin	клиентка
+gern	охотно
+Das ist alles.	Это всё
+all-	всё
+das Rollenspiel	ролевая игра
+die Rolle	роль
+Bitte schön?	Пожалуйста?
+der Spinat	шпинат
+der Lauch	лук-порей
+der Speck	бекон
+der Obstladen	фруктовый магазин
+das Obst	фрукты
+der Laden	магазин
+der Gemüseladen	овощной магазин
+das Gemüse	овощи
+die Bäckerei	пекарня
+die Fleischtheke	мясной отдел
+die Teigtasche	пельмень
+der Teig	тесто
+die Tasche	сумка
+das Rezept	рецепт
+die Maultasche	маульташен
+das Wasser	вода
+schwäbisch	швабский
+die Kategorie	категория
+die Füllung	начинка
+weiter	дальше
+der Pfeffer	перец
+der Muskat	мускат
+der Majoran	майоран
+Original-	оригинальный
+nur	только
+lieben	любить
+der Schmand	сметана
+die Petersilie	петрушка
+der Knoblauch	чеснок
+wenig	мало
+ein wenig	немного
+Georgien	Грузия
+die Ja-/Nein-Frage	вопрос да/нет
+der indefinite Artikel	неопределённый артикль
+der Negativartikel	отрицательный артикль
+der Artikel	артикль
+das Nomen	существительное
+der Singular	единственное число
+der Plural	множественное число
+nie	никогда
+nachfragen	переспрашивать
+denn	ведь
+Sonst noch etwas?	Что-нибудь ещё?
+sonst	иначе
+die Gemüsesorte	вид овоща
+die Obstsorte	вид фрукта
+nennen	называть
+einfach	просто
+das Lebensmittel-Alphabet	алфавит продуктов
+die Aprikose	абрикос
+der Kartoffelsalat	картофельный салат
+die Salatgurke	огурец
+sauer	кислый
+die Gurke	огурец
+der Bund	пучок
+die Frühlingszwiebel	зеленый лук
+die Knoblauchzehe	зубчик чеснока
+das Glas	стакан
+die Mayonnaise	майонез
+der Essig	уксус
+das Gericht	блюдо
+die Tortilla	тортилья
+das Olivenöl	оливковое масло
+nun	теперь
+das Kurs-Kochbuch	кулинарная книга курса
+der/das Comic	комикс
+die Cola	кола
+der Orangensaft	апельсиновый сок
+der Durst	жажда
+die Geschichte	история
+das Käsebrötchen	булочка с сыром
+das Wurstbrötchen	булочка с колбасой
+das Fischbrötchen	булочка с рыбой
+der Wortakzent	ударение в слове
+lang	длинный
+kurz	короткий
+festkochend	неразваривающийся
+Südtirol	Южный Тироль
+die Lösung	решение
+der Tomatensaft	томатный сок
+der Schokoladenpfannkuchen	шоколадный блин
+die Semmel	булочка
+das Rundstück	булочка
+der Wecken	булочка
+der Hering	селёдка
+die Schrippe	булочка
+der Apfelkuchen	яблочный пирог
+die Sprachschule	языковая школа
+die Rezept-Idee	идея рецепта
+der Supermarkt	супермаркет
+kühl	прохладный
+trocken	сухой
+lagern	хранить
+dunkel	тёмный
+mindestens	минимум
+haltbar	годный
+bis	до
+die Produktinformation	информация о продукте
+das Fett	жир
+die Apfelschorle	яблочный напиток
+Zutaten	ингредиенты
+der Bio-Joghurt	био-йогурт
+das Komma	запятая
+das Prozent	процент
+die Edelbitter-Schokolade	горький шоколад
+der Kakao	какао
+die Vanille	ваниль
+die Vollmilchschokolade	молочный шоколад
+das Internet	интернет
+bestellen	заказывать
+das Getränk	напиток
+die Kantine	столовая
+das Online-Formular	онлайн-форма
+still	без газа
+classic	классический
+der Kasten	ящик
+das Weißbier	пшеничное пиво
+der Online-Getränkemarkt	онлайн-магазин напитков
+eingeben	вводить
+bezahlen	оплачивать
+die Bestellung	заказ
+prüfen	проверять
+die Lieferadresse	адрес доставки
+die Rechnungsadresse	адрес для счета
+die Zahlungsart	способ оплаты
+die Rechnung	счет
+das Produkt	продукт
+die Menge	количество
+der Gesamtpreis	общая цена
+zuzüglich	плюс
+die Mehrwertsteuer	НДС
+die Kreditkarte	кредитная карта
+die Wohnung	квартира
+Ach so!	Ах так!
+die Lampe	лампа
+das Zimmer	комната
+die Küche	кухня
+das Bad	ванная
+neu	новый
+groß	большой
+klein	маленький
+hell	светлый
+teuer	дорогой
+billig	дешёвый
+hässlich	некрасивый
+dort	там
+die Traumwohnung	квартира мечты
+das Schlafzimmer	спальня
+der Flur	коридор
+das Arbeitszimmer	кабинет
+das Kinderzimmer	детская
+die Toilette	туалет
+der Balkon	балкон
+das Wohnzimmer	гостиная
+der	определённый артикль (м.р.)
+das	определённый артикль (ср.р.)
+die	определённый артикль (ж.р.)
+das Haus	дом
+nicht	не
+aber	но
+der Monat	месяц
+die Nachricht	новость
+das Partnerspiel	игра с партнёром
+breit	широкий
+schmal	узкий
+Möbel	мебель
+der Schrank	шкаф
+der Kühlschrank	холодильник
+das Sofa	диван
+der Tisch	стол
+der Stuhl	стул
+das Bett	кровать
+die Waschmaschine	стиральная машина
+der Fernseher	телевизор
+die Dusche	душ
+der Herd	плита
+die Badewanne	ванна
+das Waschbecken	раковина
+der Teppich	ковёр
+der Sessel	кресло
+das Elektrogerät	электроприбор
+das Gerät	прибор
+gefallen	нравиться
+die Farbe	цвет
+ganz gut	неплохо
+ganz	совсем
+schauen	смотреть
+modern	современный
+dunkel-	тёмно-
+weiß	белый
+schwarz	чёрный
+hell-	светло-
+grau	серый
+grün	зелёный
+braun	коричневый
+blau	голубой
+rot	красный
+gelb	жёлтый
+die Wohnungsanzeige	объявление о квартире
+(ein)hundert	сто
+tausend	тысяча
+die Million	миллион
+das Kinderbett	детская кровать
+der Zentimeter	сантиметр
+mal	на (умножить)
+diktieren	диктовать
+das Handy	мобильный телефон
+die Handynummer	номер мобильного
+die Arbeit	работа
+die Anzeige	объявление
+nett	милый
+das Ehepaar	супружеская пара
+mit	с
+der Garten	сад
+warm	тёплый
+der Quadratmeter	квадратный метр
+vermieten	сдавать (в аренду)
+das Apartment	апартаменты
+der Wohnraum	жилое помещение
+der Raum	комната
+Nebenkosten	коммунальные расходы
+die Monatsmiete	месячная аренда
+die Miete	аренда
+die Kaution	залог
+der Stock	этаж
+circa	примерно
+privat	частный
+ab	от
+sofort	сразу
+ab sofort	с этого момента
+maximal	максимально
+die Warmmiete	аренда с отоплением
+der Anruf	звонок
+unter	по (номеру)
+möbliert	меблированный
+das TV	телевизор
+die Einbauküche	встроенная кухня
+die Garage	гараж
+verkaufen	продавать
+etwas	что-то
+der Computertisch	компьютерный стол
+der Computer	компьютер
+der Schreibtisch	письменный стол
+heute	сегодня
+welch-	какой
+also	итак
+ungefähr	примерно
+der Meter	метр
+hoch	высокий
+morgen	завтра
+der definite Artikel	определённый артикль
+das Personalpronomen	личное местоимение
+die Negation	отрицание
+beschreiben	описывать
+das Traumzimmer	комната мечты
+führen	вести
+missfallen	не нравиться
+benennen	называть
+die Kleinanzeige	маленькое объявление
+das Möbelstück	предмет мебели
+frei	свободный
+korrigieren	исправлять
+Leute	люди
+der Juli	июль
+ruhig	спокойный
+wirklich	действительно
+da sein	быть, присутствовать
+beide	оба
+der Messie	мессия
+der Raucher	курильщик
+die Raucherin	курильщица
+fotografieren	фотографировать
+sehen	видеть
+der Liedtext	текст песни
+die Bewegung	движение
+ziemlich	довольно
+der Sprachkurs	языковой курс
+zweimal	дважды
+Schweden	Швеция
+Dänemark	Дания
+die Abkürzung	сокращение
+die Immobilie	недвижимость
+die Tiefgarage	подземный гараж
+die Zeichnung	чертёж
+die Verhandlungsbasis	основа для переговоров
+bequem	удобный
+französisch	французский
+das Metall	металл
+die Matratze	матрас
+der Wohnzimmerschrank	шкаф для гостиной
+das Plasma TV	плазменный телевизор
+die Höhe	высота
+die Breite	ширина
+die Tiefe	глубина
+die SMS	смс
+der Beruf	профессия
+die Regel	правило
+das Büro	офис
+der Hund	собака
+die Pizza	пицца
+essen	есть
+rauchen	курить
+erlaubt sein	быть разрешённым
+verbieten	запрещать
+verboten sein	быть запрещённым
+der Lärm	шум
+leise	тихо
+das Haustier	домашнее животное
+rund um …	вокруг
+der Mietvertrag	договор аренды
+betragen	составлять
+monatlich	ежемесячно
+die Kaltmiete	аренда без отопления
+gesamt	всего
+der Kontoauszug	выписка со счёта
+der Kontostand	остаток на счёте
+das Gehalt	зарплата
+der Strom	электричество
+die Lebensversicherung	страхование жизни
+Stadtwerke	городские службы
+die Heizung	отопление

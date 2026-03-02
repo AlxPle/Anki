@@ -1,0 +1,540 @@
+#separator:tab
+#html:false
+der Abend	вечер
+aber	но
+die Adresse	адрес
+all-	весь-/вся-/всё-
+also	итак/следовательно
+alt	старый
+das Alter	возраст
+am	в/на (при указании времени/дня)
+am Morgen/Montag/...am Wochenende	утром/в понедельник/...в выходные
+ander-	другой-
+anfangen	начинать
+angenehm	приятный
+die Anmeldung	регистрация
+der Anruf	звонок
+der Anrufbeantworter	автоответчик
+anrufen	звонить
+das Apartment	апартаменты
+der Apfel	яблоко
+Arabisch	(язык) арабский
+die Arbeit	работа
+arbeiten	работать
+der Arzt	врач
+auch	также
+auf Deutsch	на немецком
+auf keinen/jeden Fall	ни в коем/в любом случае
+aufräumen	убирать
+aufstehen	вставать
+auf Wiederhören	до свидания (по телефону)
+auf Wiedersehen	до свидания
+aus	из/от
+der Ausflug	поездка/экскурсия
+das Auto	автомобиль
+backen	печь
+das Bad	ванная
+die Badewanne	ванна
+der Balkon	балкон
+die Banane	банан
+der Bauch	живот
+der Becher	стаканчик
+bei	у/при
+besonders	особенно
+besuchen	посещать
+das Bett	кровать
+bewölkt	облачно
+bezahlen	платить
+das Bier	пиво
+billig	дешёвый
+die Birne	груша
+bis	до
+bitte	пожалуйста
+blau	синий
+brauchen	нуждаться
+braun	коричневый
+breit	широкий
+der Brief	письмо
+das Brot	хлеб
+das Brötchen	булочка
+der Bruder	брат
+das Buch	книга
+der Buchstabe	буква
+buchstabieren	произносить по буквам
+Bulgarisch	(язык) болгарский
+die Butter	масло
+der Cent	цент
+chatten	чатиться
+circa (ca.)	около
+die Cola	кола
+der Computer	компьютер
+da sein	быть на месте
+die Dame	дама
+danke	спасибо
+dein-	твой-
+denn	ибо/же
+der/das Ketchup	кетчуп
+Deutsch	(язык) немецкий
+der/die Deutsche	немец(кий/кая)
+Deutschland	Германия
+der Dienstag	вторник
+das Diktat	диктант
+dir	тебе
+doch	всё же/однако
+der Donnerstag	четверг
+dort	там
+die Dose	жестяная банка
+du	ты
+dumm	глупый
+dunkel	тёмный
+der Durst	жажда
+die Dusche	душ
+die Ehefrau	жена
+der Ehemann	муж
+das Ehepaar	супружеская пара
+das Ei	яйцо
+ein-	один-/входной префикс
+ein bisschen	немного
+einfach	просто
+einkaufen	покупать
+einmal	один раз/как-нибудь
+der Eintritt	вход
+das Eis	мороженое
+Elektro-	электро-
+die Eltern	родители
+die E-Mail	электронное письмо
+endlich	наконец
+Englisch	(язык) английский
+der Enkel	внук
+die Enkelin	внучка
+die Enkelkinder	внуки/внучки
+die Entschuldigung	извинение
+er	он
+erst	сначала/только что
+es	оно
+essen	есть
+das Essen	еда
+etwas	что-то/немного
+der Euro	евро
+fahren	ехать/ездить
+das Rad	колесо
+das Fahrrad	велосипед
+die Familie	семья
+der Familienname	фамилия
+der Familienstand	семейное положение
+die Farbe	цвет
+fernsehen	смотреть телевизор
+der Fernseher	телевизор
+fertig (sein)	быть готовым
+der Film	фильм
+finden	находить/считать
+die Firma	фирма
+der Fisch	рыба
+die Flasche	бутылка
+das Fleisch	мясо
+der Flur	прихожая
+fotografieren	фотографировать
+Französisch	(язык) французский
+die Frau	женщина/жена
+frei	свободный
+der Freitag	пятница
+die Freizeit	свободное время
+der Freund	друг
+die Freundin	подруга
+früh	рано
+der Frühling	весна
+das Frühstück	завтрак
+frühstücken	завтракать
+für	для
+der Fußball	футбол
+ganz	весь/совсем
+gar	вовсе
+die Garage	гараж
+der Garten	сад
+geboren	рождённый
+der Geburtsort	место рождения
+gefallen	нравиться
+gehen	идти
+gelb	жёлтый
+das Gemüse	овощи
+genau	точно
+geöffnet	открыто
+gern(e)	охотно/с радостью
+das Geschäft	магазин
+geschieden	разведённый
+die Geschwister	братья и сёстры
+das Gespräch	разговор
+gestern	вчера
+das Getränk	напиток
+die Gitarre	гитара
+glauben	полагать/верить
+das Grad	градус
+das Gramm	грамм
+grau	серый
+Grill-	гриль-
+grillen	жарить на гриле
+groß	большой
+die Großeltern	бабушка и дедушка
+die Großmutter	бабушка
+der Großvater	дедушка
+grün	зелёный
+die Grundschule	начальная школа
+die Gruppe	группа
+der Gruß	приветствие
+gut	хорошо
+haben	иметь
+das Hackfleisch	фарш
+halb	половина/половинный
+hallo	привет
+der Hamburger	гамбургер
+hässlich	уродливый
+die Hauptstadt	столица
+das Haus	дом
+die Hausaufgabe	домашнее задание
+die Hausnummer	номер дома
+die Heimat	родина
+heiß	жаркий/горячий
+heißen	зваться
+helfen	помогать
+hell	светлый
+der Herbst	осень
+der Herd	плита
+der Herr	господин
+herzlich	сердечный
+heute	сегодня
+hier	здесь
+das Hobby	хобби
+hoch	высокий
+hören	слышать
+der Hund	собака
+der Hunger	голод
+ich	я
+ihr	вы/ее/твой (в зависимости от формы)
+Ihr-	Ваш-
+in	в
+die Information	информация
+inklusive (inkl.)	включая
+interessant	интересный
+international	международный
+das Internet	интернет
+der Irak	Ирак
+ja	да
+das Jahr	год
+jed-	каждый-
+jetzt	сейчас
+der Joghurt	йогурт
+der Junge	мальчик
+der Kaffee	кофе
+kalt	холодный
+die Kartoffel	картофель
+der Käse	сыр
+kaufen	покупать
+die Kaution	залог
+kein-	никакой/не-
+kennen	знать
+das Kilo(gramm)	килограмм
+der Kilometer	километр
+das Kind	ребёнок
+der Kindergarten	детский сад
+das Kinderzimmer	детская комната
+das Kino	кино
+die Kiwi	киви
+die Klasse	класс
+klein	маленький
+kochen	готовить
+kommen	приходить
+können	мочь
+der Kontakt	контакт
+kosten	стоить
+krank	больной
+der Krimi	детектив (фильм/книга)
+die Küche	кухня
+der Kuchen	пирог
+der Kühlschrank	холодильник
+der Kunde	клиент
+der Kurs	курс
+der Laden	лавка/магазин
+die Lampe	лампа
+das Land	страна
+lang	длинный
+lange	долго
+leben	жить
+das Lebensmittel	продукт питания
+ledig	неженат/незамужем
+der Lehrer	учитель
+die Lehrerin	учительница
+leider	к сожалению
+leidtun	жалеть/сожалеть
+lernen	учить(ся)
+lesen	читать
+lieb-	любимый-
+lieben	любить
+Lieblings-	любимый-
+das Lied	песня
+der Liter	литр
+los (losgehen)	начинаться/отправляться
+los sein	быть свободным/начавшимся
+losfahren	отправляться (на транспорте)
+die Lösung	решение
+machen	делать
+das Mädchen	девочка
+mal	раз/пожалуйста (в выражениях)
+malen	рисовать
+die Mama	мама
+der Mann	мужчина/муж
+die Mathematik	математика
+maximal	максимальный
+das Mehl	мука
+mehr	больше
+mein-	мой-
+der Meter	метр
+die Miete	арендная плата
+die Milch	молоко
+das Mineralwasser	минеральная вода
+minus	минус
+mit	с
+mitbringen	приносить с собой
+mitkommen	приходить вместе
+der Mittag	полдень
+die Mitte	середина
+der Mittwoch	среда
+die Möbel	мебель
+möbliert	меблировано
+möchten	хотеть (вежл.)
+modern	современный
+mögen	любить/нравиться
+der Moment	момент
+der Monat	месяц
+der Montag	понедельник
+morgen	завтра
+der Morgen	утро
+müde	уставший
+die Musik	музыка
+die Mutter	мать
+die Mütze	шапка
+nach	после/к
+nach Hause	домой
+der Nachmittag	послеобеденное время
+der Nachname	фамилия
+die Nachricht	сообщение/новость
+Nachrichten schreiben	писать сообщения/новости
+die Nacht	ночь
+der Name	имя
+natürlich	конечно
+nehmen	брать
+nein	нет
+neu	новый
+nicht	не
+noch	еще
+Nord-	северный-
+der Norden	север
+die Nummer	номер
+nur	только
+das Obst	фрукты
+oder	или
+die Öffnungszeit	часы работы
+die Oma	бабушка
+der Opa	дедушка
+die Orange	апельсин
+der Osten	восток
+Österreich	Австрия
+die Packung	упаковка
+der Papa	папа
+der Park	парк
+die Party	вечеринка
+die Pause	перерыв
+der Pfannkuchen	блин
+der Pfeffer	перец
+das Picknick	пикник
+die Pizza	пицца
+der Platz	место/площадь
+plus	плюс
+Polnisch	(язык) польский
+die Pommes frites	картошка фри
+die Portion	порция
+die Postleitzahl	почтовый индекс
+die Präsentation	презентация
+die Praxis	практика/клиника
+prima	отлично
+privat	частный
+das Problem	проблема
+pünktlich	пунктуальный
+der Quadratmeter	квадратный метр
+das Radio	радио
+der Raum	комната
+das Regal	полка
+der Regen	дождь
+regnen	идти (о дожде)
+der Reis	рис
+richtig	правильно
+rot	красный
+Rumänien	Румыния
+der Saft	сок
+sagen	сказать
+der Salat	салат
+das Salz	соль
+sammeln	собирать
+der Samstag	суббота
+schade	жаль
+schauen	смотреть
+scheinen	светить/казаться
+der Schinken	ветчина
+schlafen	спать
+das Schlafzimmer	спальня
+schlecht	плохо
+schließen	закрывать
+schmal	узкий
+der Schmerz	боль
+der Schnee	снег
+schneien	идти (о снеге)
+schnell	быстро
+die Schokolade	шоколад
+schon	уже
+schön	красивый
+der Schrank	шкаф
+schreiben	писать
+der Schreibtisch	письменный стол
+die Schule	школа
+schwarz	чёрный
+die Schwester	сестра
+das Schwimmbad	бассейн
+schwimmen	плавать
+sehen	видеть
+sehr	очень
+sein	быть
+selbst	сам
+der Sessel	кресло
+Sie	Вы (вежл.)
+sie (Plural)	они
+sie (Singular)	она/он/оно (контекст)
+singen	петь
+so	так
+das Sofa	диван
+der Sohn	сын
+der Sommer	лето
+das Sonderangebot	специальное предложение
+der Sonnabend	суббота (в некоторых регионах)
+die Sonne	солнце
+sonnig	солнечно
+der Sonntag	воскресенье
+sonst	иначе/ещё
+Spanisch	(язык) испанский
+der Spaß	веселье
+spät	поздно
+spazieren gehen	ходить на прогулку
+die Speise	блюдо
+die Speisekarte	меню
+das Spiel	игра
+spielen	играть
+der Sport	спорт
+die Sprache	язык
+die Sprachenschule	школа языков
+sprechen	говорить
+die Stadt	город
+steigen	подниматься
+stimmen	голосовать/быть верным
+die Straße	улица
+der Stuhl	стул
+die Stunde	час
+suchen	искать
+Süd-	южный-
+der Süden	юг
+super	супер
+der Supermarkt	супермаркет
+Syrien	Сирия
+der Tag	день
+tanzen	танцевать
+das Team	команда
+der Tee	чай
+das Telefon	телефон
+telefonieren	разговаривать по телефону
+die Telefonnummer	номер телефона
+die Temperatur	температура
+der Teppich	ковёр
+der Termin	встреча/запись
+der Test	тест
+teuer	дорогой
+der Text	текст
+der Tisch	стол
+die Tochter	дочь
+die Toilette	туалет
+toll	классно
+die Tomate	помидор
+Traum-	мечта-/фантастический-
+treffen	встречать
+trinken	пить
+tschüs	пока
+die Türkei	Турция
+Türkisch	(язык) турецкий
+das TV	телевидение (разг.)
+das Fernsehen	телевидение
+üben	практиковать
+überall	везде
+die Übung	упражнение
+die Uhr	часы
+um	в/около
+und	и
+Ungarn	Венгрия
+der Unterricht	урок/занятие
+der Vater	отец
+vergessen	забывать
+verheiratet	женат/замужем
+verkaufen	продавать
+der Verkäufer	продавец
+vermieten	сдавать внаём
+verwitwet	овдовевший
+viel	много
+vielen Dank	большое спасибо
+vielleicht	возможно
+das Viertel	четверть/район
+von	от/из
+von … bis	от … до
+vor	перед/до
+der Vormittag	предобеденное время
+der Vorname	имя
+wandern	пеший туризм/гулять
+wann	когда
+warm	тёплый
+warum	почему
+was	что
+das Waschbecken	умывальник
+die Wäsche	белье
+waschen	стирать/мыть
+die Waschmaschine	стиральная машина
+das Wasser	вода
+wecken	будить
+der Wein	вино
+weiß	белый
+Welche …?	какой/какая/какое
+wer	кто
+der Westen	запад
+das Wetter	погода
+der Wetterbericht	прогноз погоды
+wichtig	важный
+wie	как
+Wie bitte?	Что-как? (повторите, пожалуйста)
+Wie viel	Сколько
+wieder	снова
+willkommen	добро пожаловать
+der Wind	ветер
+windig	ветрено
+der Winter	зима
+wir	мы
+wo	где
+das Wochenende	выходные
+woher	откуда
+wohnen	жить (где-то)
+der Wohnort	место жительства / город
+die Wohnung	квартира
+das Wohnzimmer	гостиная
+die Wolke	облако
+wollen	хотеть
+die Wurst	колбаса/сосиска
+das Würstchen	сосиска
+die Zeit	время
+der Zentimeter	сантиметр
+das Zimmer	комната
+der Zucker	сахар
+zurückkommen	возвращаться
+zusammen	вместе
+die Zwiebel	лук

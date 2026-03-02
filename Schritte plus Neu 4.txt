@@ -1,0 +1,315 @@
+#separator:tab
+#html:false
+abbiegen	поворачивать
+der Abflug, ¨-e	вылет
+abheben	снимать (деньги), отрываться (о самолёте)
+aktiv	активный
+akzeptieren	принимать
+die Altstadt, ¨-e	старый город
+annehmen	принимать, допускать
+ansprechen	заговорить, обращаться, заговаривать
+vorbei	мимо (чего-л.), позади, прошедший, завершённый
+ändern	изменять, изменить
+arm	бедный
+der Arm, -e	рука
+die Arztpraxis, -praxen	врачебная практика, приёмная врача
+auf einen Flohmarkt gehen	ходить на блошиный рынок
+der Aufenthalt, -e	пребывание, ожидание, остановка
+auffallen	бросаться в глаза, привлекать внимание
+die Ausfahrt, -en	выезд, ворота /
+ausgehen	выходить (в свет), гаснуть
+die Autobahn, -en	автомагистраль
+die Bahn, -en	железная дорога, поезд
+die Bar, -s	бар
+der Bär, -en	медведь
+das Bargeld	наличные
+die Batterie, -n	батарея, аккумулятор
+die Baustelle, -n	стройплощадка
+beantworten	отвечать, ответить, давать ответ
+das Benzin	бензин
+bequem	удобный
+der Berg, -e	гора
+Bescheid sagen	сообщить, дать знать
+besichtigen	осматривать, посещать, ознакомиться
+die Bestätigung, -en	подтверждение
+das Besteck, -e	столовые приборы
+bestimmt	определённо
+der Betrag, ¨-e	сумма (денежная)
+das Bild, -er	картина, изображение
+der Bildschirm, -e	экран
+das Blatt, ¨-er	лист, листок
+der Bleistift, -e	карандаш
+der Blick, -e	взгляд
+böse	злой
+bremsen	тормозить
+der Brief, -e	письмо
+der Briefkasten, ¨-	почтовый ящик
+der Briefumschlag, ¨-e	конверт
+der Bürgersteig, -e	тротуар
+die CD, -s	CD, компакт-диск
+das Chaos	хаос
+die Couch	диван
+dafür sein	быть за (ч/л)
+dagegen sein	быть против
+damals	тогда
+dankbar	благодарный
+deshalb	поэтому
+dicht	плотный, густой
+dick	толстый
+das Ding, -e	вещь, предмет
+der Dom, -e	собор
+dorthin	туда
+drin	внутри
+durch	через, сквозь
+der Durchschnitt, -e	среднее значение
+die EC-Karte, -n	дебетовая карта
+egal	всё равно
+eher	скорее
+eine Radtour machen	ехать на велопрогулку
+einfallen	приходить в голову
+einrichten	обставлять, устраивать
+die Einrichtung, -en	оборудование, обстановка
+das Einschreiben	заказное письмо
+einverstanden	согласен
+die Eisenbahn, -en	железная дорога
+der Elefant, -en	слон
+die E-Mail, -s	электронное письмо
+die Ente, -n	утка
+entfernt	удалённый, далекий
+entlang	вдоль
+die Entscheidung, -en	решение
+erhalten	получать
+die Erinnerung, -en	воспоминание
+erkältet sein	простужаться (быть простуженным)
+die Erklärung, -en	объяснение
+erledigen	урегулировать, выполнить
+ernst	серьёзный
+eröffnen	открывать (в т.ч. официально)
+die Erziehung	воспитание
+Europa	Европа
+die Fahrbahn, -en	проезжая часть
+der Fan, -s	фанат
+die Fantasie, -n	фантазия
+der Fehler	ошибка
+das Feuerzeug, -e	зажигалка
+der Flohmarkt, ¨-e	блошиный рынок
+der Flughafen, ¨-	аэропорт
+der Fluss, ¨-e	река
+die Fotografie, -n	фотография
+frieren	мёрзнуть
+furchtbar	ужасный
+der Fußgänger	пешеход
+das Gas, -e	газ
+der Gedanke, -n	мысль
+geeignet sein	подходить, быть пригодным
+die Gefahr, -en	опасность
+gefährlich	опасный
+das Gegenteil, -e	противоположность
+Geld abheben	снимать деньги (в банкомате)
+der Geldautomat, -en	банкомат
+die Gemeinschaft, -en	сообщество, общность
+die Geschichte, -n	история
+das Gewitter	гроза
+das Girokonto, -en	текущий счёт
+gleich	сразу, одинаковый
+die Grippe, -n	грипп
+gucken	смотреть (разговорно)
+der Hammer, ¨-	молоток
+das Handtuch, ¨-er	полотенце
+der Hase, -n	заяц
+häufig	часто
+das Haustier, -e	домашнее животное
+der Himmel	небо
+die Höhe, -n	высота
+das Holz, ¨-er	дерево, древесина
+das Hostel, -s	хостел
+das Hotel, -s	отель
+hübsch	милый, симпатичный
+hupen	сигналить (гудком)
+der Hut, ¨-e	шляпа
+die Impfung, -en	вакцинация, прививка
+im Wald spazieren gehen	гулять в лесу
+in eine Bar gehen	пойти в бар
+in ein Konzert gehen	идти на концерт
+die Insel, -n	остров
+der Jazz	джаз
+der Kalender, -	календарь
+die Kamera, -s	камера, фотоаппарат
+kaum	едва
+die Kerze, -n	свеча
+kleben	клеить, приклеиваться
+das Kleingeld	мелочь (деньги)
+das Knie, -	колено
+komisch	странный, комический
+die Kommunikation	общение, коммуникация
+komplett	полный, полностью
+das Konsulat, -e	консульство
+das Konto, Konten	счёт (в банке)
+der Kontoauszug, ¨-e	выписка со счёта
+das Konzert, -e	концерт
+kräftig	сильный, энергичный
+die Kreuzung, -en	перекрёсток
+der Kugelschreiber	шариковая ручка
+die Kultur	культура
+sich kümmern	заниматься, заботиться
+der Künstler / die Künstlerin	художник / художница
+die Küste, -n	побережье
+die Lage, -n	расположение, положение
+das Land	страна
+landen	приземляться, высаживаться
+die Landschaft, -en	пейзаж, ландшафт
+die Landung, -en	посадка
+der Laptop, -s	ноутбук
+leer	пустой
+lieb	милый, дорогой
+der Liebling, -e	любимец
+manch	некоторый
+das Märchen, -	сказка
+die Maus, ¨-e	мышь
+das Meer, -e	море
+melden (sich)	сообщить о себе, явиться
+mitten	посреди
+das Mobiltelefon, -e	мобильный телефон
+die Möglichkeit, -en	возможность
+das Moped, -s	мопед
+der Motorroller	скутер
+die Münze, -n	монета
+nah	близко
+das Nahrungsmittel, -	продукт питания
+die Natur	природа
+der Nebel, -	туман
+das Netzwerk, -e	сеть, сеть (технологии/сообщество)
+niedrig	низкий
+nirgends	нигде
+nützlich	полезный
+öffentlich	общественный, открытый
+die Oper, -n	опера
+orange	оранжевый
+ordentlich	аккуратный, опрятный
+die Ostsee	Балтийское море
+das Paar, -e	пара
+das Päckchen	посылочка, пакетик
+das Paket, -e	посылка
+das Pflaster	пластырь
+planen	планировать
+die Platte, -n	пластинка, плита
+plötzlich	внезапно
+die Politik	политика
+die Polizei	полиция
+populär	популярный
+das Poster	плакат
+die Postkarte, -n	открытка
+prüfen	проверять
+der Punkt, -e	точка, пункт
+die Qualität, -en	качество
+das Rad, ¨-er	колесо, велосипед
+der Radfahrer	велосипедист
+die Radtour, -en	велопоездка
+raten	советовать, угадывать
+der Ratschlag, ¨-e	совет
+der Raucher	курильщик
+rechtzeitig	вовремя
+die Regel, -n	правило
+die Region, -en	регион
+die Reise, -n	путешествие
+das Rezept, -e	рецепт
+die Richtung, -en	направление
+die Rose, -n	роза
+der Rucksack, ¨-e	рюкзак
+rufen	звать, звонить
+sauer	кислый, раздражённый
+die Schere, -n	ножницы
+scheußlich	отвратительный
+schick	элегантный, шикарный
+das Schiff, -e	корабль, судно
+schlimm	плохой, серьёзный
+schneiden (sich)	резать(ся)
+der See, -n	озеро
+Sonder-	специальный, особенный (приставка)
+sondern	а (а не), напротив
+die Sorge, -n	беспокойство
+sorgen	заботиться
+spannend	захватывающий
+sparen	экономить
+die Spende, -n	пожертвование
+der Spielplatz, ¨-e	детская площадка
+das Spielzeug, -e	игрушка
+die Sprechstunde, -n	приёмные часы
+die Spur, -en	полоса, след
+ständig	постоянно
+der Start, -s	старт, начало
+starten	запускать, стартовать
+die Station, -en	станция
+der Stau, -s	пробка
+stehen bleiben	останавливаться
+sterben	умирать
+der Stern, -e	звезда
+die Strafe, -n	штраф, наказание
+der Strafzettel	штрафной талон, штраф
+streichen	красить, мазать
+der Streit	ссора
+das Stück	кусок
+stundenlang	часами
+der Sturm, ¨-e	буря
+stürzen	падать, рушиться
+die Summe, -n	сумма
+täglich	ежедневно
+tanken	заправлять топливо
+der Teil, -e	часть
+die Teilnahme, -n	участие
+der Tiger	тигр
+tippen	нажимать, печатать
+die Tour, -en	тур, экскурсия
+transportieren	транспортировать
+trotzdem	всё же, тем не менее
+überholen	обгонять
+überlegen	обдумывать
+überweisen	переводить деньги
+übrigens	кстати
+die Unterhaltung	развлечение, беседа
+die Unterkunft, ¨-e	размещение, жильё
+unternehmen	предпринимать
+unterschiedlich	различный
+verabschieden (sich)	прощаться
+verbringen	проводить (время)
+verhindern	предотвращать
+der Verkehr	транспорт, движение
+das Verkehrsmittel	средство передвижения
+vermeiden	избегать
+verpacken	упаковывать
+verschieben	переносить (дату, предмет)
+versenden	отправлять
+die Versicherung, -en	страховка
+das Visum, Visa	виза
+der Vogel, ¨-	птица
+die Volkshochschule, -n	народный университет (VHS)
+voll	полный
+voraussichtlich	предположительно
+der Vorort, -e	пригород
+der Vorschlag, ¨-e	предложение
+vorsichtig	осторожный
+der Wagen	автомобиль, вагон
+die Wahl	выбор
+der Wald, ¨-er	лес
+das WC, -s	туалет
+wegen	из-за, из-за того что
+weiter	далее
+weltweit	всемирный
+das Werkzeug, -e	инструмент
+wert	стоящий, достойный
+der Wert	ценность, стоимость
+witzig	смешной
+wochentags	по будням
+worüber	о чём
+wunderschön	прекрасный
+der Wunsch, ¨-e	желание
+das Zebra, -s	зебра
+ziemlich	довольно
+die Zinsen	процент(ы), проценты по вкладу
+der Zoll, ¨-e	таможня
+die Zukunft	будущее
+zum Beispiel	например
+zurückgehen	возвращаться, идти обратно
+zusammenleben	жить вместе
+der Zustand, ¨-e	состояние
+zuverlässig	надёжный

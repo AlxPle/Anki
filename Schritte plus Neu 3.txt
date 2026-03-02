@@ -1,0 +1,410 @@
+#separator:tab
+#html:false
+der Abfall, ¨-e	мусор
+bemerken	замечать
+die Einführung, -en	введение
+das Abitur	аттестат о среднем образовании (Abitur)
+benutzen	использовать
+der Einkauf, ¨-e	покупка, закупка
+der Abschluss, ¨-e	окончание, завершение
+die Beratung, -en	консультация, совет
+die Energie	энергия
+die Absicht, -en	намерение
+die Berufserfahrung, -en	профессиональный опыт
+die Energiesparlampe, -n	энергосберегающая лампа
+absolut	абсолютно
+die Berufsschule, -n	профессиональная школа
+entfernen	удалять
+abstellen	ставить, отключать
+berufstätig	работающий (по профессии)
+entscheiden	решать, определять, выбирать
+die Abteilung, -en	отдел
+sich beschweren	жаловаться
+die Entspannung	расслабление, отдых
+achten auf	обращать внимание на
+die Besprechung, -en	совещание
+die Erdkunde	география
+die Agentur, -en	агентство
+beten	молиться
+erfahren	узнавать, испытывать
+die Ahnung, -en	представление, знание, интуиция
+betragen	составлять (о сумме)
+die Erfahrung, -en	опыт
+die Aktivität, -en	активность
+sich bewegen	двигаться
+sich erinnern	вспоминать
+der Alkohol	алкоголь
+die Bewegung, -en	движение, зарядка
+erleben	переживать, испытывать
+anbieten	предлагать
+sich bewerben	подавать заявление (на работу)
+die Ermäßigung, -en	скидка
+anders	по-другому
+der Bewohner	житель
+sich ernähren	питаться
+die Ernährung	питание
+ansehen	смотреть, осматривать
+die Biologie	биология
+der Experte	эксперт
+anstrengend	утомительный
+der Biomüll	органические отходы
+anziehen (sich)	надевать(ся)
+bisher	до сих пор
+extra	дополнительно
+der Arbeiter	рабочий
+bitter	горький
+die Fachhochschule, -n	высшая профессиональная школа (Fachhochschule)
+die Arbeiterin	работница
+bluten	кровоточить
+fallen	падать
+der Arbeitnehmer	работник
+der Boden, ¨-	пол, почва
+fantastisch	фантастический
+Arbeitnehmerin	работница
+die Bohne, -n	боб(ы)
+fast	почти
+der Briefkasten, ¨-	почтовый ящик
+faul	ленивый
+die Architektin	архитекторша
+die Briefmarke, -n	почтовая марка
+die Feier, -n	праздник, торжество
+ärgern über	злиться на
+das Büro, -s	офис
+die Ferien	каникулы
+aufpassen	приглядывать, быть внимательным
+der Chef	шеф, начальник
+fett	жирный
+die Aufgabe, -n	задача
+die Chefin	начальница
+fit	в хорошей форме
+der Aufzug, ¨-e	лифт
+die Chemie	химия
+der Fleiß	усердие
+ausdrucken	распечатывать
+cool	крутой
+fleißig	прилежный
+auspacken	распаковывать
+der Cousin	двоюродный брат
+die Förderung, -en	содействие, поддержка
+ausrichten	передавать (сообщение), организовывать
+die Cousine, -n	двоюродная сестра
+das Forum, Foren	форум
+ausruhen (sich)	отдыхать
+die Creme, -s	крем
+ausziehen (sich)	раздеваться
+das Dach, ¨-er	крыша
+sich freuen	радоваться
+außerdem	кроме того
+dass	что (союз)
+freundlich	дружелюбный
+der/die Auszubildende	стажёр, учащийся на практике
+die Decke, -n	одеяло
+frisch	свежий
+deutsch	немецкий
+der Friseur	парикмахер
+der Dienst, -e	служба, дежурство
+die Friseurin	парикмахерша
+die Azubine, -n	обучающаяся (разговорно)
+direkt	прямо
+das Fundbüro, -s	бюро находок
+das Baby, -s	младенец, ребёнок
+die Diskussion, -en	дискуссия
+fühlen (sich)	чувствовать(ся)
+der Basketball	баскетбол
+drucken	печатать
+die Gabel, -n	вилка
+basteln	мастерить
+duschen (sich)	принимать душ
+der Gast, ¨-e	гость
+der Bau	строительство
+durchschnittlich	средний, в среднем
+das Gebiet, -e	район, область
+beachten	обращать внимание
+die Durchwahl, -en	внутренний номер (тел.)
+das Gefühl, -e	чувство
+beeilen (sich)	торопиться
+echt	настоящий
+der Gegenstand, ¨-e	предмет
+das Gehalt, ¨-er	зарплата
+der Beitrag, ¨-e	вклад, статья, взнос
+eigentlich	на самом деле
+der Geldbeutel	бумажник
+der/die Bekannte, -n	знакомый/знакомая
+einpacken	упаковывать
+die Geldbörse, -n	кошелёк
+gemeinsam	вместе
+gemütlich	уютный
+genauso	точно так же
+genug	достаточно
+die Geografie	география
+die Gesamtschule, -n	полная средняя школа
+die Geschichte	история
+gesund	здоровый
+die Gesundheit	здоровье
+die Gewohnheit, -en	привычка
+das Glas, ¨-er	стекло
+glücklich	счастливый
+die Glühbirne, -n	лампочка
+grundsätzlich	в основном
+das Gymnasium	гимназия
+die Gymnastik	гимнастика
+die Handtasche, -n	сумочка
+hängen	висеть
+hassen	ненавидеть
+die Hauptschule, -n	основная школа
+der Haushalt, -e	хозяйство, бюджет семьи
+das Heft, -e	тетрадь
+herein-/rein-	внутрь (при входе)
+herunter-/runter-	вниз
+hinfallen	падать (вниз)
+höchstens	максимум
+der Hof, ¨-e	двор
+hoffen	надеяться
+höflich	вежливый
+der Honig	мёд
+das Huhn, ¨-er	курица
+insgesamt	в целом
+intelligent	интеллектуальный
+das Interesse, -n	интерес
+sich interessieren für	интересоваться
+jemand	кто-то, кто-нибудь
+kämmen (sich)	расчесываться
+die Kanne, -n	чайник, кувшин
+die Kantine, -n	столовая (на предприятии)
+die Karte, -n	карта, билет, открытка
+die Katze, -n	кошка
+kennenlernen	знакомиться
+die Kenntnisse	знания
+die Kette, -n	цепочка, ожерелье
+der Kinderwagen	коляска
+die Kirche, -n	церковь
+klingen	звучать
+die Kneipe, -n	паб, бар
+sich konzentrieren auf	концентрироваться на
+der Körper	тело
+kostenlos	бесплатно
+die Kreditkarte, -n	кредитная карта
+die Krippe, -n	ясельная группа
+kündigen	увольняться, расторгать (договор)
+die Kunst	искусство
+kurz	короткий
+die Landkarte, -n	карта (географическая)
+laufen	бежать, ходить
+legen	класть
+leicht	лёгкий
+die Leistung, -en	успех, производительность
+die Leiter, -n	лестница
+der Löffel	ложка
+lösen	решать
+die Luft	воздух
+die Lust	желание
+die Mahlzeit, -en	приём пищи
+die Mannschaft, -en	команда
+die Marmelade, -n	варенье
+das Material, -ien	материал
+die Mathematik	математика
+der Mensch, -en	человек
+das Messer	нож
+das Metall, -e	металл
+der Mieter	жилец, арендатор
+die Mieterin, -nen	арендаторша
+der Migrant	мигрант
+die Migrantin, -nen	мигрантка
+das Mitglied, -er	член (организации)
+die Mitteilung, -en	сообщение
+die Mittelschule, -n	средняя школа
+möglich	возможный
+der Müll	мусор
+die Müllabfuhr, -en	вывоз мусора
+die Mülltonne, -n	мусорный контейнер
+die Musik	музыка
+das Müsli, -s	мюсли
+der Nachbar	сосед
+die Nachbarin, -nen	соседка
+die Nachhilfe, -n	репетиторство
+die Nachrichten	новости
+die Nachspeise, -n	десерт
+nachts	ночью
+der Neffe, -n	племянник
+nervös	нервный
+die Nichte, -n	племянница
+nie	никогда
+niemand	никто
+die Not, ¨-e	нужда, беда
+der Notarzt	врач скорой помощи
+die Note, -n	оценка (школьная)
+nutzen	использовать, приносить пользу
+öfter	чаще
+ohne	без
+der Onkel	дядя
+die Panne, -n	поломка, авария
+das Parfüm	духи
+passieren	происходить
+der PC	компьютер
+das Pech	неудача
+die Pfanne, -n	сковорода
+die Pflanze, -n	растение
+die Physik	физика
+das Plastik	пластик
+die Plattform, -en	платформа
+das Praktikum	практика, стажировка
+praktisch	практический, удобно
+präsentieren	представлять, презентовать
+probieren	пробовать
+die Pünktlichkeit	пунктуальность
+die Puppe, -n	кукла
+rasieren (sich)	бриться
+raus	наружу
+die Realschule, -n	реальная школа (тип школы)
+recht haben	быть правым
+das Referat, -e	реферат, сообщение
+regelmäßig	регулярно
+rein·kommen	входить
+reklamieren	жаловаться (о товаре)
+die Religion, -en	религия
+der Rentner	пенсионер
+die Rentnerin, -nen	пенсионерка
+das Rezept	рецепт
+riechen	нюхать
+das Rind, -er	говядина, бык
+der Ring, -e	кольцо
+rund	около, круглый
+die Sachen	вещи
+die Sahne	сливки
+satt	сыт(ый)
+sauber	чистый
+die Schachtel, -n	коробка
+schaffen	успевать, создавать
+scharf	острый
+das Schloss, ¨-er	замок
+schminken (sich)	краситься
+schmutzig	грязный
+das Schnitzel	шницель
+schrecklich	ужасный
+das Schreiben	письмо, письмо (процесс)
+schriftlich	в письменной форме
+das Schulfach	учебный предмет
+die Schüssel, -n	миска
+der Schwager	шурин, зять
+die Schwägerin, -nen	невестка/золовка
+das Schwein, -e	свинья, свинина
+der Schwiegervater	свёкр/тесть
+die Schwiegermutter	свекровь/тёща
+schwierig	сложный
+selten	редко
+seltsam	странный
+die Sendung, -en	передача
+die Situation, -en	ситуация
+die SMS	SMS, смс
+sogar	даже
+sozial	социальный
+Sozial-	социальный (приставка)
+die Sozialkunde	общественные науки
+der Spaziergang, ¨-e	прогулка
+speichern	сохранять
+der Sport	спорт
+sportlich	спортивный
+stark	сильный
+stattfinden	состояться, проходить
+stecken	втыкать, находиться
+stellen	ставить
+der Stift, -e	ручка, карандаш
+die Stimmung, -en	настроение
+streiten (sich)	ссориться
+streng	строгий
+der Student	студент
+die Studentin, -nen	студентка
+studieren	учиться в университете
+das Studium	учёба, исследование
+die Suppe, -n	суп
+süß	сладкий
+die Süßigkeit, -en	сладость
+das System, -e	система
+die Tafel, -n	доска
+die Tante, -n	тётя
+der Tanz, ¨-e	танец
+die Tasse, -n	чашка
+tauschen	менять
+technisch	технический
+das Tennis	теннис
+das Theater	театр
+die Theorie, -n	теория
+der Tipp, -s	совет
+das Tischtennis	настольный теннис
+der Topf, ¨-e	кастрюля
+das Tor, -e	ворота
+die Torte, -n	торт
+tragen	носить
+träumen von	мечтать о
+die Trauung, -en	венчание, брачная церемония
+trennen (sich)	расставаться
+die Treppe, -n	лестница
+treten	ступать
+das Trinkgeld, -er	чаевые
+überhaupt	вообще
+übernehmen	брать на себя
+überraschen	удивлять
+umziehen	переезжать
+sich umziehen	переодеваться
+der Umzug, ¨-e	переезд, парад
+unbekannt	неизвестный
+ungefähr	примерно
+die Uni, -s	университет (разг.)
+die Universität, -en	университет
+unterhalten (sich)	развлекаться, беседовать
+die Unterkunft, ¨-e	жильё, размещение
+unterwegs	в пути
+die Ursache, -n	причина
+vegetarisch	вегетарианский
+sich verabreden	договориться о встрече
+sich verbessern	улучшаться
+verbieten	запрещать
+verbinden mit	связывать с
+verdienen	зарабатывать
+sich verletzen	пораниться
+verlieren	терять
+vermissen	скучать по кому-то
+verpassen	пропустить
+verpflegen	питать, обеспечивать питанием
+verschieden	разный
+das Verständnis	понимание
+der Versuch, -e	попытка, эксперимент
+versuchen	пытаться
+die Verwaltung, -en	администрация
+das Video, -s	видео
+der Volleyball	волейбол
+vor allem	прежде всего
+sich vorbereiten	готовиться
+vorschlagen	предлагать
+vorhin	недавно
+die Vorsicht	осторожность
+sich vorstellen	представлять(ся)
+der Vorteil, -e	преимущество
+der Vortrag, ¨-e	лекция, доклад
+wahrscheinlich	вероятно
+die Wand, ¨-e	стена
+waschen (sich)	мыться
+wechseln	менять
+der Wecker	будильник
+weil	потому что
+weinen	плакать
+die Welt, -en	мир
+die Weltmeisterschaft	чемпионат мира
+wenig	малый, немного
+wenn	если
+die Wettervorhersage, -n	прогноз погоды
+wiederkommen	возвращаться
+die Wohngemeinschaft (WG)	совместное проживание, коммунальная квартира (WG)
+wünschen (sich)	желать(ся)
+der Zeitpunkt	момент, время
+das Zentrum, Zentren	центр
+das Zertifikat, -e	сертификат
+der Zettel	листок, записка
+das Zeugnis, -se	свидетельство, аттестат
+die Zitrone, -n	лимон
+der Zoo, -s	зоо(парк)
+zubereiten	готовить
+zufrieden	довольный
+das Zuhause	дом, место жительства
+zusätzlich	дополнительно
+die Zweitsprache, -n	второй язык

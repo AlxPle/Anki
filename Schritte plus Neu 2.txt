@@ -1,0 +1,548 @@
+#separator:tab
+#html:false
+ab	от
+abends	вечером
+abfahren	отправляться
+die Abfahrt	отъезд, отправление
+abholen	забирать
+der Abschied	прощание
+der Absender	отправитель
+die Achtung	внимание
+allein	один, в одиночку
+am besten	лучше всего
+am liebsten	самое любимое, охотнее всего
+am meisten	больше всего
+die Ampel	светофор
+das Amt	учреждение, ведомство
+an	у, на, к (предлог)
+anbei	в приложении, прилагаю
+das Angebot	предложение, акция
+der/die Angehörige	член семьи, родственник/ца
+angestellt	наёмный, работающий по найму
+ankommen	прибывать
+die Ankunft	прибытие
+anmachen	включать, зажигать
+anmelden (sich)	регистрироваться, записываться
+die Anrede	обращение (в письме)
+die Ansage	объявление (по громкой связи)
+der Anschluss	контакт, подключение, связь
+der Antrag	заявление, прошение
+antworten	отвечать
+die Anzeige	объявление, реклама
+der Anzug	костюм
+die Apotheke	аптека
+der Appetit	аппетит
+der April	апрель
+arbeitslos	безработный
+der Arbeitsplatz	рабочее место
+die Arbeitsstelle	рабочее место, должность
+der Arbeitstag	рабочий день
+die Arbeitszeit	рабочее время
+der Arm	рука (от кисти до плеча)
+der Arzt / die Ärztin	врач
+der Arzthelfer / die Arzthelferin	медицинский помощник/ца
+auf	на, вверх
+aufmachen	открывать
+aufstehen	вставать, просыпаться
+das Auge	глаз
+der August	август
+die Ausbildung	обучение, профессиональная подготовка
+ausfüllen	заполнять (формуляр)
+die Aushilfe	временный работник, подмога
+die Auskunft	справка, информация
+ausländisch	иностранный
+ausleihen	брать взаймы, одалживать
+ausmachen	выключать, договариваться
+ausschalten	выключать
+aussehen (wie)	выглядеть (как)
+aussteigen	выходить, сходить (с транспорта)
+auswählen	выбирать
+der Ausweis	удостоверение
+die Autobahn	автомагистраль
+der Automat	автомат (аппарат)
+die Bäckerei	пекарня
+der Bahnhof	вокзал
+der Bahnsteig	платформа
+bald	скоро
+die Bank (Geld)	банк
+bar	наличными
+der Baum	дерево
+beantragen	подавать заявление
+bedeuten	значить, означать
+befristet	ограниченный по сроку
+der Beginn	начало
+beginnen	начинать(ся)
+der Behälter	контейнер, ёмкость
+beid-	оба
+das Bein	нога
+bekommen	получать
+der Bereich	область, сектор
+der Beruf	профессия
+beruflich	профессионально, по работе
+besser	лучше
+die Besserung	выздоровление
+bestellen	заказывать
+der Besuch	посещение, визит
+der Betreff	тема (письма)
+der Betrieb	предприятие, работа
+die Bewerbung	заявление о приёме, резюме
+die Bitte	просьба
+bleiben	оставаться
+die Blume	цветок
+die Bluse	блузка
+das Bonbon	конфета
+die Bratwurst	жареная колбаса
+der Briefkasten	почтовый ящик
+die Brille	очки
+bringen	приносить, приводить
+die Brücke	мост
+die Brust	грудь
+die Bücherei	библиотека (маленькая)
+die Buchhandlung	книжный магазин
+der Bus	автобус
+das Café	кафе
+der Chef / die Chefin	шеф, руководитель/ница
+danach	после этого
+danken	благодарить
+dann	тогда, затем
+das Datum	дата
+dauern	длиться
+denken	думать
+der Dezember	декабрь
+dich	тебя, тебе
+dienstags	по вторникам
+der Doktor	доктор (учёная степень/врач)
+donnerstags	по четвергам
+draußen	снаружи, на улице
+dreimal	три раза
+dringend	срочный, срочно
+dritte	третий/я/е
+die Drogerie	магазин косметики и бытовой химии
+drüben	там, по ту сторону
+drücken	нажимать, давить
+der Drucker	принтер
+dünn	тонкий, худой
+die Durchsage	сообщение (по звуку)
+dürfen	иметь разрешение, мочь (с разрешения)
+die Ecke	угол
+eigen-	собственный
+der Eingang	вход
+einladen	приглашать
+die Einladung	приглашение
+einschalten	включать
+einsteigen	садиться (в транспорт)
+der Empfänger	получатель
+empfehlen	рекомендовать
+das Ende	конец
+enden	заканчиваться
+entschuldigen (sich)	извиняться
+das Erdgeschoss	первый этаж (на уровне земли)
+die Erkältung	простуда
+erklären	объяснять
+erlauben	позволять
+erreichbar	доступный, досягаемый
+erstaunt	удивлённый
+erste	первый
+der/die Erwachsene	взрослый/ая
+erzählen	рассказывать
+der Erzieher / die Erzieherin	воспитатель/ница
+der Essig	уксус
+die EU	ЕС
+euer-	ваш (мн. или нескл.)
+europäisch	европейский
+die Europäische Union	Европейский союз
+der Fahrer / die Fahrerin	водитель/ница
+der Fahrgast	пассажир
+die Fahrkarte	билет (на транспорт)
+der Fahrplan	расписание (транспорта)
+die Fahrt	поездка
+der Februar	февраль
+Feier-	праздничный (производная)
+feiern	праздновать
+der Feiertag	праздничный день, выходной
+das Fenster	окно
+das Fernsehen	телевидение
+das Fest	праздник, фестиваль
+feststellen	устанавливать, констатировать
+das Feuerwerk	фейерверк
+das Fieber	лихорадка, жар
+der Finger	палец
+die Fitness	фитнес
+der Flug	рейс, полёт
+das Flugzeug	самолёт
+folgend-	следующий
+das Formular	бланк, формуляр
+das Foto	фото
+die Frage	вопрос
+freitags	по пятницам
+fremd	чужой, иностранный
+die Freude	радость
+die Frisur	причёска
+froh	радостный, довольный
+früher	ранее, раньше
+der Führerschein	водительское удостоверение
+funktionieren	работать, функционировать
+der Fuß	ступня
+geben	давать
+die Gebrauchsanleitung	инструкция по применению
+die Gebrauchsanweisung	инструкция
+die Gebühr	плата, сбор
+das Geburtsdatum	дата рождения
+der Geburtstag	день рождения
+geehrt	уважаемый (в обращениях)
+gegenüber	напротив, по отношению к
+gehören	принадлежать
+das Geld	деньги
+gelten	иметь силу, считаться
+gerade	ровно, только что
+geradeaus	прямо
+das Gerät	прибор, устройство
+das Gericht	суд, блюдо
+das Geschenk	подарок
+das Geschirr	посуда
+das Geschlecht	пол
+geschlossen	закрытый
+das Gesicht	лицо
+getrennt leben	жить раздельно
+das Glas	стакан, стекло
+gleich	сейчас, одинаковый
+das Gleis	путь (на вокзале)
+gratulieren	поздравлять
+die Größe	размер, величина
+gültig	действительный
+günstig	выгодный, недорогой
+der Gürtel	ремень
+das Haar	волос
+halbtags	на полставки, половину дня
+der Hals	шея
+halten	держать, останавливаться
+die Haltestelle	остановка
+die Hand	рука
+das Handy	мобильный телефон
+der Hausmann / die Hausfrau	домохозяин/домохозяйка
+der Hausmeister / die Hausmeisterin	дворник, домоуправ
+heiraten	вступать в брак, жениться
+die Heizung	отопление
+das Hemd	рубашка
+herausnehmen	достать, вынуть
+die Hilfe	помощь
+hin / hin-: hin und zurück	туда / туда и обратно
+hinten	сзади
+hinter	за, позади
+hinterlassen	оставлять (послание)
+die Hochzeit	свадьба
+hoffentlich	надеюсь, будем надеяться
+holen	приходить за, приносить
+die Homepage	домашняя страница
+die Hose	штаны
+das Hotel	отель
+der Husten	кашель
+die Idee	идея
+ihr (Pl.)	ваши
+ihr (Sg.)	её
+ihr/ihm/ihn	её/ему/его (зависит от падежа)
+immer	всегда
+informieren	информировать
+der Inhalt	содержание
+intensiv	интенсивный
+das Interview	интервью
+die Jacke	куртка, пиджак
+die Jahreszeit	время года
+dieses Jahr	в этом году
+der Januar	январь
+die Jeans	джинсы
+der Job	работа, подработка
+joggen	бегать трусцой
+der Journalist / die Journalistin	журналист/ка
+der/die Jugendliche	подросток, молодёжь
+der Juli	июль
+jung	молодой
+der Juni	июнь
+kaputt	сломанный, уставший
+der Karneval	карнавал
+die Kasse	касса
+das Kaufhaus	торговый дом, универмаг
+der Kellner / die Kellnerin	официант/ка
+der Kiosk	киоск
+die Kiste	ящик
+klar	ясно, понятно
+das Kleid	платье
+die Kleider	одежда (мн.)
+die Kleidung	одежда (ед., общее)
+der Klub	клуб
+der Koch / die Köchin	повар/кухарка
+der Koffer	чемодан
+der Kollege / die Kollegin	коллега
+der Kopf	голова
+kopieren	копировать
+die Kosmetik	косметика
+das Krankenhaus	больница
+der Krankenpfleger / die Krankenpflegerin	мед. сестра/медбрат
+die Krankenschwester	медсестра
+die Krankheit	болезнь
+die Krankschreibung	больничный лист
+kühlen	охлаждать
+lachen	смеяться
+langsam	медленно
+langweilig	скучный
+laut	громкий, согласно (чему-л.)
+leise	тихо
+letzt-	последний
+die Leute	люди
+das Licht	свет
+lieb haben	любить
+lieben (sich)	любить друг друга
+lieber	лучше (в сравнении предпочтений)
+liegen	лежать
+links	слева
+der Lkw	грузовик
+lohnen (sich)	стоить (усилий)
+lustig	весёлый
+der Mai	май
+der Maler / die Malerin	маляр, художник/ца
+man	"люди, неопределённое ""человек"""
+manchmal	иногда
+der Mantel	пальто
+der März	март
+die Maschine	машина, механизм
+der Maurer / die Maurerin	каменщик/ца
+der Mechatroniker / die Mechatronikerin	мехатроник / мехатроница
+das Medikament	лекарство
+meinen	думать, иметь в виду
+der Meister	мастер, чемпион
+die Meldebehörde	паспортный/регистрационный орган
+die Metzgerei	мясная лавка, мясная кулинария
+mieten	снимать, арендовать
+die Minute	минута
+der Mitarbeiter / die Mitarbeiterin	сотрудник / сотрудница
+mitmachen	участвовать
+mitnehmen	взять с собой
+das Mittagessen	обед
+mittags	в полдень, днём
+mittwochs	по средам
+die Mode	мода
+der Moment	момент
+montags	по понедельникам
+morgens	по утрам
+das Motorrad	мотоцикл
+der Mund	рот
+das Museum	музей
+der Musiker / die Musikerin	музыкант / музыкантша
+müssen	быть вынужденным, должен
+die Nachfrage	спрос
+nachmittags	во второй половине дня
+nächst-	следующий
+der Nachtisch	десерт
+die Nähe (in der Nähe)	близость, рядом
+nähen	шить
+die Nase	нос
+das Navigationsgerät (Navi)	навигационное устройство, навигатор
+neben	рядом, около
+nett	милый, любезный
+das Neujahr	Новый год
+nichts	ничего
+normal	нормальный
+die Notaufnahme	приёмное отделение (больницы)
+der Notfall	чрезвычайный случай
+der November	ноябрь
+die Nudel	лапша, макароны
+nun	теперь, итак
+oben	вверху
+das Obergeschoss	верхний этаж
+öffnen	открывать
+oft	часто
+das Ohr	ухо
+okay	окей, хорошо
+der Oktober	октябрь
+online	онлайн
+die Ordnung	порядок
+der Ort	место, населённый пункт
+das Ostern	Пасха
+paar (ein paar)	пара, несколько
+das Paar	пара (двое)
+das Papier	бумага
+die Papiere	документы
+parken	парковать(ся)
+der Parkplatz	парковка
+der Partner / die Partnerin	партнёр / партнёрша
+der Pass	паспорт
+passen	подходить, годиться
+der Patient / die Patientin	пациент / пациентка
+perfekt	идеально, совершенное (в грамматике)
+die Person	человек, личность
+das Personal	персонал
+der Pfleger / die Pflegerin	сиделка, уходовой работник
+der Physiotherapeut / die Physiotherapeutin	физиотерапевт / физиотерапевтка
+das Plastik	пластик
+der Polizist / die Polizistin	полицейский / полицейская
+die Post	почта
+der Preis	цена, приз
+pro	за (на единицу)
+der Pullover	джемпер, свитер
+putzen	чистить, убирать
+der Ratschlag	совет
+rauchen	курить
+die Rechnung	счёт (в ресторане), счёт-фактура
+rechts	справа, правый
+der Regenschirm / Schirm	зонт
+der Reifen	шина
+reinigen	чистить, очищать
+die Reinigung	химчистка
+die Reparatur	ремонт
+reparieren	чинить
+reservieren	резервировать, бронировать
+das Restaurant	ресторан
+die Rezeption	ресепшн
+der Rock	юбка
+der Rücken	спина
+die Rückseite	обратная сторона
+die Ruhe	тишина, покой
+ruhig	спокойный
+dies-	этот
+die Salbe	мазь
+samstags	по субботам
+der Satz	предложение
+die S-Bahn	электричка, пригородная железная дорога
+der Schauspieler	актёр
+schenken	дарить
+die Schicht	смена (рабочая)
+schicken	посылать
+der Schluss	конец
+der Schlüssel	ключ
+schmecken	иметь вкус, нравиться на вкус
+der Schmuck	украшения
+der Schnupfen	насморк
+der Schritt	шаг
+der Schuh	туфля, обувь
+der Schüler / die Schülerin	ученик / ученица
+die Seife	мыло
+sein	быть
+seit	с (временной предлог)
+der Sekretär / die Sekretärin	секретарь / секретарша
+das Sekretariat	секретариат
+die Sekunde	секунда
+selbstständig	самостоятельный, фрилансер
+die Senioren	пожилые люди
+der September	сентябрь
+der Service	сервис, обслуживание
+sicher	безопасный, уверенный
+das Silvester	Новый год (31 декабря)
+sitzen	сидеть
+das Smartphone	смартфон
+die Socke	носок
+sofort	сразу
+sollen	должен (внешнее требование)
+sonntags	по воскресеньям
+später	позже
+die Spülmaschine	посудомоечная машина
+die Staatsangehörigkeit	гражданство
+die Steckdose	розетка
+der Stecker	штекер
+stehen	стоять
+die Stelle (Arbeit)	место работы, вакансия
+stempeln	штамповать, отметка
+der Stiefel	сапог
+der Stock	этаж, палка
+stören	мешать
+die Straßenbahn	трамвай
+der Stress	стресс
+der Strumpf	гольф, чулок
+das Tablet	планшет
+die Tablette	таблетка
+tagsüber	в течение дня
+die Tankstelle	заправка
+die Tasche	сумка
+die Taste	кнопка
+das Taxi	такси
+der Techniker	техник
+die Teilzeit	частичная занятость
+das Thema	тема
+das Ticket	билет
+das Tier	животное
+total	совершенно, полностью
+das Training	тренировка
+traurig	грустный
+das T-Shirt	футболка
+das Tuch	платок, ткань
+tun	делать
+die Tür	дверь
+die Tüte	пакет
+die U-Bahn	метро
+über	над, через, о
+übermorgen	послезавтра
+die Uhr	часы
+die Umfrage	опрос
+umsteigen	пересаживаться (на транспорт)
+unbedingt	обязательно
+der Unfall	несчастный случай
+unfreundlich	неприветливый
+unser-	наш
+unter	под
+das Untergeschoss	цокольный этаж
+unterschreiben	подписывать
+die Unterschrift	подпись
+der Urlaub	отпуск
+die Veranstaltung	мероприятие
+verboten (sein)	запрещено
+der Verdienst	заработок
+verlängern	продлевать
+verschicken	отправлять (по почте)
+die Versichertenkarte	карта застрахованного
+die Verspätung	опоздание
+verstehen	понимать
+verwenden	использовать
+viel-	много, числительный префикс
+das Viertel (Stadt)	район
+die Viertelstunde	15 минут
+die Vollzeit	полная занятость
+vorbei-	мимо, окончание (pref.)
+vorbeikommen	заходить, забежать
+vorher	до этого, раньше
+vormittags	до полудня
+vorn	впереди
+vorne	спереди
+wählen	выбирать, звонить (по номеру)
+die Ware	товар
+der Wartebereich	зона ожидания
+warten	ждать
+weg	прочь, ушедший
+der Weg	путь
+weh·tun	болеть, причинять боль
+weiblich	женский
+das Weihnachten	Рождество
+weit	далеко
+welch-	какой
+werden	становиться, вспом.глагол образования времен
+die Werkstatt	мастерская
+wiederholen	повторять
+die Wiese	луг
+wirklich	действительно
+wissen	знать
+der Witz	шутка
+die Woche	неделя
+der Wochentag	день недели
+wohin	куда
+das Wort	слово
+wunderbar	прекрасно, замечательно
+die Zahl	число
+zahlen	платить
+der Zahn	зуб
+die Zahnbürste	зубная щётка
+die Zahnpasta	зубная паста
+zeigen	показывать
+die Zeitschrift	журнал
+die Zeitung	газета
+zentral	центральный
+ziehen	тянуть, переезжать
+das Ziel	цель, конечный пункт
+die Zigarette	сигарета
+zu	к, слишком, закрыто
+zuerst	сначала
+der Zug	поезд
+zuhören	слушать
+zumachen	закрывать
+zurück	назад
+zurückrufen	перезванивать
+zurzeit	в настоящее время
+zweite	второй
+zwischen	между

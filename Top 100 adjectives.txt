@@ -1,0 +1,95 @@
+#separator:tab
+#html:false
+ganz	весь/полный
+groß	большой/высокий
+gut	хороший
+neu	новый
+erste	первый
+lang	длинный/долго
+klein	маленький
+alt	старый
+hoch	высокий
+einfach	простой, незамысловатый, несложный
+letzte	последний
+gleich	тот же, равный, одинаковый
+möglich	возможный
+eigen	собственный
+schön	красивый
+spät	поздний/позже
+wichtig	важный
+weitere	дальнейший/еще
+genau	точный/ровно
+jung	молодой
+kurz	короткий
+stark	сильный
+richtig	правильный
+verschieden	различный
+bestimmt	определенный
+besser	лучше
+schnell	быстрый
+sicher	безопасный/уверенный
+nächste	следующий
+politisch	политический
+klar	четкий, ясный, понятный
+schwer	тяжелый/сложный
+einzeln	отдельный/индивидуальный
+bekannt	знакомый, известный, знаменитый, популярный
+leicht	легкий
+rund	круглый/примерно
+frei	свободный
+früh	ранний
+unterschiedlich	разный
+schlecht	плохой
+deutlich	ясно/очевидный
+allgemein	общий
+einzig	единственный
+gemeinsam	совместный/общий
+nahe, nah	близко/близкий
+voll	полный
+direkt	прямой/непосредственный
+international	международный
+sozial	социальный
+beste (r,s)	лучший
+rot	красный
+offen	открытый
+meiste	большинство/наиболее
+besondere (r,s)	особый
+öffentlich	общественный/публичный
+halb	половина/полу-
+wahrscheinlich	вероятный
+wesentlich	существенный
+ähnlich	похожий
+häufig	часто/частый
+schwarz	черный
+völlig	полностью
+gering	незначительный/малый
+schwierig	трудный
+praktisch	практический/полезный
+persönlich	личный
+modern	современный
+tief	глубокий
+tatsächlich	фактически/на самом деле
+zusätzlich	дополнительный
+wirtschaftlich	экономический/выгодный
+interessant	интересный
+relativ	относительный
+gleichzeitig	одновременно
+grün	зеленый
+weiß	белый
+gesamt	общий/в целом
+speziell	специальный/особый
+entscheidend	решающий/важнейший
+eng	узкий/тесный
+technisch	технический
+langsam	медленный
+ständig	постоянный
+notwendig	необходимый
+rein	чистый/исключительно
+wissenschaftlich	научный
+falsch	неправильный/ложный
+fremd	чужой/иностранный
+selten	редкий/редко
+normal	нормальный
+wahr	истинный/правдивый
+privat	частный
+tot	мертвый

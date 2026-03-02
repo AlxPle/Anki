@@ -1,0 +1,97 @@
+#separator:tab
+#html:false
+das Jahr	год
+das Mal	раз (раза)
+das Beispiel	пример
+die Zeit	время
+die Frau	женщина
+der Mensch	человек
+das Kind	ребёнок
+der Tag	день
+der Mann	мужчина
+das Land	земля, страна, территория
+die Frage	вопрос
+das Haus	дом
+der Fall	падение, случай
+die Leute	люди
+die Arbeit	работа
+das Prozent	процент
+die Hand	рука
+die Stadt	город
+der Teil	часть
+das Problem	проблема
+die Welt	мир
+das Recht	право
+das Ende	конец
+die Schule	школа
+die Woche	неделя
+der Vater	отец
+die Seite	страница/сторона
+das Leben	жизнь
+die Mutter	мать
+der Grund	причина/основание
+das Auge	глаз
+das Wort	слово
+das Geld	деньги
+die Sache	вещи/дела
+die Art	вид/тип, жанр, категория, манера
+der Bereich	область, сфера, район, диапазон, отдел
+der Weg	путь
+die Stunde	час
+der Name	имя
+die Geschichte	история
+die Gesellschaft	общество
+der Kopf	голова
+das Paar	пара
+die Möglichkeit	возможность
+das Unternehmen	предприятие/компания
+das Bild	изображение/картина
+das Buch	книга
+das Wasser	вода
+die Stelle	место/должность
+die Form	форма
+die Entwicklung	развитие
+der Monat	месяц
+die Familie	семья
+der Morgen	утро
+der Abend	вечер
+die Aufgabe	задача
+die Universität, Uni	университет
+der Sinn	смысл
+der Staat	государство
+das Ziel	цель
+der Freund	друг
+das Thema	тема
+die Person	человек
+die Nacht	ночь
+das Ding	вещь
+der Raum	пространство/комната
+der Blick	взгляд/вид
+der Platz	место/площадь
+die Zahl	число
+das System	система
+die Uhr	часы
+die Eltern	родители
+die Straße	улица
+die Minute	минута
+die Gruppe	группа
+der Wert	ценность/стоимость
+das Gesicht	лицо
+die Sprache	язык
+der Anfang	начало
+der Ort	место
+der Moment	момент
+die Folge	последствие/серия
+das Interesse	интерес
+die Rolle	роль
+die Tür	дверь
+der Schüler	ученик
+die Bedeutung	значение
+der Text	текст
+das Ergebnis	результат
+der Krieg	война
+die Weise	образ/манера
+die Regierung	правительство
+das Stück	штука/кусок
+die Wohnung	квартира
+das Gespräch	разговор
